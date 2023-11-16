@@ -1,0 +1,1 @@
+export {TextEllipse} from './TextEllipse'

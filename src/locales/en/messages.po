@@ -1,0 +1,1847 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-12-21 10:12+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: en\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/shared/hotel/hotel-cart/HotelCart.tsx:78
+msgid "({0} comments)"
+msgstr "({0} comments)"
+
+#: src/pages/auth/otp/OtpPage.tsx:114
+msgid "- - - -"
+msgstr "- - - -"
+
+#: src/shared/passenger-count-modal/AgeMenu.tsx:8
+msgid "1 year"
+msgstr "1 year"
+
+#: src/shared/passenger-count-modal/AgeMenu.tsx:17
+msgid "10 years"
+msgstr "10 years"
+
+#: src/shared/passenger-count-modal/AgeMenu.tsx:18
+msgid "11 years"
+msgstr "11 years"
+
+#: src/shared/passenger-count-modal/AgeMenu.tsx:9
+msgid "2 years"
+msgstr "2 years"
+
+#: src/shared/passenger-count-modal/AgeMenu.tsx:10
+msgid "3 years"
+msgstr "3 years"
+
+#: src/shared/passenger-count-modal/AgeMenu.tsx:11
+msgid "4 years"
+msgstr "4 years"
+
+#: src/shared/passenger-count-modal/AgeMenu.tsx:12
+msgid "5 years"
+msgstr "5 years"
+
+#: src/shared/passenger-count-modal/AgeMenu.tsx:13
+msgid "6 years"
+msgstr "6 years"
+
+#: src/shared/passenger-count-modal/AgeMenu.tsx:14
+msgid "7 years"
+msgstr "7 years"
+
+#: src/shared/passenger-count-modal/AgeMenu.tsx:15
+msgid "8 years"
+msgstr "8 years"
+
+#: src/shared/passenger-count-modal/AgeMenu.tsx:16
+msgid "9 years"
+msgstr "9 years"
+
+#: src/pages/hotel-details/HotelRelateSection.tsx:64
+msgid "About Hotel"
+msgstr "About Hotel"
+
+#: src/pages/profile/editProfile/EditProfilePage.tsx:100
+msgid "About Me"
+msgstr "About Me"
+
+#: src/pages/hotel-details/AboutHotel.tsx:22
+msgid "About hotel"
+msgstr "About hotel"
+
+#: src/pages/add-comment/AddCommentPage.tsx:45
+msgid "Add Comment"
+msgstr "Add Comment"
+
+#: src/pages/add-comment/AddCommentPage.tsx:166
+msgid "Add Photo"
+msgstr "Add Photo"
+
+#: src/shared/search/NoDataContentSection.tsx:47
+msgid "Add a missing place"
+msgstr "Add a missing place"
+
+#: src/pages/things/ThingsPage.tsx:160
+msgid "Add comment"
+msgstr "Add comment"
+
+#: src/pages/things/ThingsPage.tsx:166
+msgid "Add photo"
+msgstr "Add photo"
+
+#: src/pages/add-place/AddPlacePage.tsx:27
+#: src/pages/add-place/AddPlacePage.tsx:176
+msgid "Add place"
+msgstr "Add place"
+
+#: src/shared/cart/PlaceBriefFOrSearchResult.tsx:76
+#: src/shared/slider-container/SliderContainer.tsx:131
+msgid "Add to my favorite"
+msgstr "Add to my favorite"
+
+#: src/pages/add-place/AddPlacePage.tsx:71
+msgid "Address *"
+msgstr "Address *"
+
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:179
+#: src/pages/flight-passenger-info/FlightPassengerInfoPage.tsx:110
+msgid "Adult"
+msgstr "Adult"
+
+#: src/core/book-flight/ContinueBookFlight.tsx:135
+msgid "Adult ({adultCount})"
+msgstr "Adult ({adultCount})"
+
+#: src/shared/passenger-count-modal/HotelRoomCounter.tsx:62
+msgid "Adult passenger"
+msgstr "Adult passenger"
+
+#: src/shared/hotel/hotel-inputs/PassengerCountInput.tsx:25
+#: src/shared/hotel/hotel-inputs/PassengerCountInputBottomRounded.tsx:37
+msgid "Adult,"
+msgstr "Adult,"
+
+#: src/pages/search-flight-result/SortAndFilter.tsx:47
+msgid "Afternoon"
+msgstr "Afternoon"
+
+#: src/pages/search-flight-result/FilterDialog.tsx:236
+msgid "Airline company"
+msgstr "Airline company"
+
+#: src/shared/flight-ticket-info/FlightFurtherInformation.tsx:27
+msgid "Airplane model"
+msgstr "Airplane model"
+
+#: src/pages/flight/FlightPage.tsx:197
+#: src/pages/search-flight-result/SearchFlightResultPage.tsx:72
+msgid "Airplane ticket"
+msgstr "Airplane ticket"
+
+#: src/shared/flight-ticket-info/SelectedTicketInfoListBox.tsx:110
+msgid "Allowable load"
+msgstr "Allowable load"
+
+#: src/pages/profile/moneyWallet/TransactionsList.tsx:73
+msgid "Amount"
+msgstr "Amount"
+
+#: src/shared/cart/PlaceBriefCartWithImageAndName.tsx:52
+#: src/shared/comment/Comment.tsx:89
+msgid "An error occurred"
+msgstr "An error occurred"
+
+#: src/pages/hotel-details/HotelRelateSection.tsx:61
+msgid "Around the hotel"
+msgstr "Around the hotel"
+
+#: src/shared/hotel/hotel-inputs/HotelDateInput.tsx:51
+msgid "Arrival and departure date"
+msgstr "Arrival and departure date"
+
+#: src/pages/search-flight-result/TabPrice.tsx:99
+msgid "At the most economical price every day"
+msgstr "At the most economical price every day"
+
+#: src/pages/add-place/AddPlacePage.tsx:90
+msgid "Attraction"
+msgstr "Attraction"
+
+#: src/shared/filterButtons/FilterButtons.tsx:30
+msgid "Attractions"
+msgstr "Attractions"
+
+#: src/shared/things-photos/ImageLess.tsx:29
+msgid "Be the first one to add photo for this place"
+msgstr "Be the first one to add photo for this place"
+
+#: src/shared/flight-ticket-info/FlightPassengerForm.tsx:255
+#: src/shared/flight-ticket-info/FlightPassengerForm.tsx:258
+msgid "Birth date"
+msgstr "Birth date"
+
+#: src/shared/flight-ticket-info/FlightPassengerForm.tsx:281
+#: src/shared/flight-ticket-info/FlightPassengerForm.tsx:282
+msgid "Birth place country"
+msgstr "Birth place country"
+
+#: src/shared/flight-ticket-info/PassengersInfoBox.tsx:77
+msgid "BirthDate"
+msgstr "BirthDate"
+
+#: src/shared/travels/TravelHistoryBox.tsx:34
+msgid "Book number: {0}"
+msgstr "Book number: {0}"
+
+#: src/shared/travels/TravelHistoryBox.tsx:39
+msgid "Buying date: {0}"
+msgstr "Buying date: {0}"
+
+#: src/App.tsx:58
+msgid "Cancel"
+msgstr "Cancel"
+
+#: src/shared/hotel/hotel-room-selection/HotelRoomSelection.tsx:91
+msgid "Cancelation Rules"
+msgstr "Cancelation Rules"
+
+#: src/pages/hotel-order-detail/HotelOrderDetail.tsx:43
+msgid "Canceled"
+msgstr "Canceled"
+
+#: src/pages/profile/moneyWallet/MoneyWalletPage.tsx:51
+msgid "Cash withdrawal"
+msgstr "Cash withdrawal"
+
+#: src/pages/add-place/AddPlacePage.tsx:191
+msgid "Category"
+msgstr "Category"
+
+#: src/pages/hotel-details/HotelBookData.tsx:65
+msgid "Change room search"
+msgstr "Change room search"
+
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:179
+#: src/pages/flight-passenger-info/FlightPassengerInfoPage.tsx:113
+msgid "Child"
+msgstr "Child"
+
+#: src/core/book-flight/ContinueBookFlight.tsx:146
+msgid "Child ({childCount})"
+msgstr "Child ({childCount})"
+
+#: src/shared/passenger-count-modal/HotelRoomCounter.tsx:71
+msgid "Child passenger"
+msgstr "Child passenger"
+
+#: src/pages/add-place/AddPlacePage.tsx:109
+msgid "Choose on map *"
+msgstr "Choose on map *"
+
+#: src/core/book-flight/ContinueBookFlight.tsx:42
+msgid "Choose payment method"
+msgstr "Choose payment method"
+
+#: src/core/book-flight/ContinueBookFlight.tsx:36
+msgid "Choose return ticket"
+msgstr "Choose return ticket"
+
+#: src/pages/hotel-details/HotelRoomSelectionSection.tsx:46
+msgid "Choose the room you want"
+msgstr "Choose the room you want"
+
+#: src/shared/flight-ticket-info/TicketSelectionCaptionSection.tsx:19
+msgid "Choose your {0}"
+msgstr "Choose your {0}"
+
+#: src/shared/province-city-section/city/CitySection.tsx:32
+msgid "City"
+msgstr "City"
+
+#: src/shared/province-city-section/city/CitySection.tsx:32
+msgid "City *"
+msgstr "City *"
+
+#: src/shared/comment/Comment.tsx:82
+msgid "Comment has been removed. Thank you."
+msgstr "Comment has been removed. Thank you."
+
+#: src/pages/add-comment/useAddComment.ts:115
+#: src/pages/add-comment/useAddComment.ts:128
+msgid "Comment has been submitted. Thank you."
+msgstr "Comment has been submitted. Thank you."
+
+#: src/pages/profile/ProfilePage.tsx:88
+msgid "Comments"
+msgstr "Comments"
+
+#: src/shared/passenger-count-modal/HotelPassengerCountModal.tsx:73
+msgid "Confirm"
+msgstr "Confirm"
+
+#: src/core/book-flight/ContinueBookFlight.tsx:40
+msgid "Confirm and continue"
+msgstr "Confirm and continue"
+
+#: src/pages/hotel-passengers-check/HotelPassengersCheck.tsx:26
+msgid "Confirm information"
+msgstr "Confirm information"
+
+#: src/core/book-flight/ContinueBookFlight.tsx:38
+msgid "Continue"
+msgstr "Continue"
+
+#: src/core/book-flight/ContinueBookFlight.tsx:44
+msgid "Continue buying"
+msgstr "Continue buying"
+
+#: src/shared/hotel/hotel-passenger-room-info/ActionButton.tsx:72
+msgid "Continue shopping"
+msgstr "Continue shopping"
+
+#: src/pages/profile/moneyWallet/MoneyWalletPage.tsx:26
+msgid "Credit balance"
+msgstr "Credit balance"
+
+#: src/pages/profile/moneyWallet/TransactionsList.tsx:63
+msgid "Date"
+msgstr "Date"
+
+#: src/pages/hotel-order-detail/HotelOrderDetail.tsx:38
+msgid "Dear Sir, the hotel reservation request has been registered for you, the registration of the inquiry does not mean that the reservation is confirmed, and after the confirmation of the amount and amount by the hotel, you will be informed via email and SMS."
+msgstr "Dear Sir, the hotel reservation request has been registered for you, the registration of the inquiry does not mean that the reservation is confirmed, and after the confirmation of the amount and amount by the hotel, you will be informed via email and SMS."
+
+#: src/pages/search-flight-result/FilterDialog.tsx:266
+msgid "Delete filter"
+msgstr "Delete filter"
+
+#: src/shared/flight-ticket-info/SelectedTicketInfoListBox.tsx:38
+#: src/shared/flight-ticket-info/SelectedTicketInfoListBox.tsx:158
+msgid "Departure"
+msgstr "Departure"
+
+#: src/pages/flight/FlightPage.tsx:331
+#: src/pages/flight/FlightPage.tsx:376
+msgid "Departure date"
+msgstr "Departure date"
+
+#: src/pages/flight-ticket-info/FlightTicketInfoPage.tsx:38
+msgid "Departure flight information"
+msgstr "Departure flight information"
+
+#: src/shared/flight-ticket-info/TicketSelectionCaptionSection.tsx:16
+msgid "Departure ticket"
+msgstr "Departure ticket"
+
+#: src/pages/add-place/AddPlacePage.tsx:168
+msgid "Description"
+msgstr "Description"
+
+#: src/pages/profile/moneyWallet/TransactionsList.tsx:68
+msgid "Descriptions"
+msgstr "Descriptions"
+
+#: src/shared/flight-ticket-info/SelectedTicketInfoListBox.tsx:50
+msgid "Destination"
+msgstr "Destination"
+
+#: src/pages/flight/search-inputs/SearchInputs.tsx:112
+msgid "Destination city"
+msgstr "Destination city"
+
+#: src/shared/flight-ticket-info/DiscountCodeForm.tsx:32
+#: src/shared/flight-ticket-info/DiscountCodeForm.tsx:34
+msgid "Discount code"
+msgstr "Discount code"
+
+#: src/shared/search/NoDataContentSection.tsx:37
+msgid "Do you know a place that is not here?"
+msgstr "Do you know a place that is not here?"
+
+#: src/shared/flight-ticket-info/SelectedTicketInfoListBox.tsx:127
+msgid "Doesn't have"
+msgstr "Doesn't have"
+
+#: src/pages/flight/FlightPage.tsx:97
+msgid "Domestic flights"
+msgstr "Domestic flights"
+
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerCheckCard.tsx:68
+msgid "Edit Profile"
+msgstr "Edit Profile"
+
+#: src/shared/flight-ticket-info/PassengersInfoBox.tsx:117
+msgid "Edit passengers information"
+msgstr "Edit passengers information"
+
+#: src/pages/profile/ProfileMenu.tsx:47
+msgid "Edit profile"
+msgstr "Edit profile"
+
+#: src/shared/flight-ticket-info/SelectedFlightTicketInfoBox.tsx:26
+msgid "Edit ticket"
+msgstr "Edit ticket"
+
+#: src/pages/auth/otp/OtpPage.tsx:167
+msgid "Edit {validationType}"
+msgstr "Edit {validationType}"
+
+#: src/pages/auth/otp/OtpPage.tsx:28
+msgid "Email"
+msgstr "Email"
+
+#: src/pages/profile/EditProfilePage.tsx:175
+msgid "Email *"
+msgstr "Email *"
+
+#: src/pages/auth/otp/OtpPage.tsx:113
+msgid "Enter the code sent to {0} {mobileOrEmail}"
+msgstr "Enter the code sent to {0} {mobileOrEmail}"
+
+#: src/pages/auth/restore-password/RestorePasswordPage.tsx:23
+msgid "Enter your email"
+msgstr "Enter your email"
+
+#: src/pages/profile/editProfile/EditProfilePage.tsx:81
+msgid "Enter your email."
+msgstr "Enter your email."
+
+#: src/pages/profile/editProfile/EditProfilePage.tsx:48
+msgid "Enter your name."
+msgstr "Enter your name."
+
+#: src/pages/auth/type-password/TypePasswordPage.tsx:24
+msgid "Enter your password"
+msgstr "Enter your password"
+
+#: src/pages/auth/login/LoginPage.tsx:77
+msgid "Enter your phone number or email."
+msgstr "Enter your phone number or email."
+
+#: src/pages/profile/editProfile/EditProfilePage.tsx:65
+msgid "Enter your phone number."
+msgstr "Enter your phone number."
+
+#: src/pages/hotel-details/HotelBookData.tsx:24
+msgid "Entrance"
+msgstr "Entrance"
+
+#: src/pages/hotel-details/CancelationRules.tsx:17
+msgid "Entrance time: 14:00"
+msgstr "Entrance time: 14:00"
+
+#: src/pages/hotel-details/Rules.tsx:21
+msgid "Entrance time: {0}"
+msgstr "Entrance time: {0}"
+
+#: src/pages/profile/ProfileHeaderWithCover.tsx:158
+msgid "Exit"
+msgstr "Exit"
+
+#: src/pages/hotel-details/CancelationRules.tsx:23
+msgid "Exit time: 16:00"
+msgstr "Exit time: 16:00"
+
+#: src/pages/hotel-details/Rules.tsx:27
+msgid "Exit time: {0}"
+msgstr "Exit time: {0}"
+
+#: src/pages/add-comment/AddCommentPage.tsx:223
+msgid "Experience type"
+msgstr "Experience type"
+
+#: src/pages/add-comment/AddCommentPage.tsx:118
+#: src/pages/add-place/AddPlacePage.tsx:93
+msgid "Experience type *"
+msgstr "Experience type *"
+
+#: src/pages/add-comment/AddCommentPage.tsx:140
+msgid "Experience's comment"
+msgstr "Experience's comment"
+
+#: src/pages/add-comment/AddCommentPage.tsx:90
+#: src/pages/add-comment/AddCommentPage.tsx:91
+msgid "Experience's date"
+msgstr "Experience's date"
+
+#: src/shared/flight-ticket-info/FlightPassengerForm.tsx:353
+#: src/shared/flight-ticket-info/FlightPassengerForm.tsx:354
+msgid "Expiry date of passport"
+msgstr "Expiry date of passport"
+
+#: src/pages/profile/feedback/ProfileFeedbackPage.tsx:91
+msgid "Explanation"
+msgstr "Explanation"
+
+#: src/shared/flight-ticket-info/FlightPassengerForm.tsx:303
+#: src/shared/flight-ticket-info/FlightPassengerForm.tsx:304
+msgid "Exporting country"
+msgstr "Exporting country"
+
+#: src/shared/flight-ticket-info/FlightPassengerForm.tsx:177
+#: src/shared/flight-ticket-info/FlightPassengerForm.tsx:178
+msgid "Family"
+msgstr "Family"
+
+#: src/pages/add-comment/AddCommentPage.tsx:111
+msgid "FamilyJust"
+msgstr "FamilyJust"
+
+#: src/pages/profile/feedback/ProfileFeedbackPage.tsx:59
+msgid "Feedback"
+msgstr "Feedback"
+
+#: src/pages/add-place/AddPlacePage.tsx:29
+msgid "Fill the form below if you want to add a place"
+msgstr "Fill the form below if you want to add a place"
+
+#: src/pages/search-flight-result/FilterDialog.tsx:145
+#: src/pages/search-flight-result/SortAndFilter.tsx:114
+msgid "Filter"
+msgstr "Filter"
+
+#: src/pages/profile/myTravels/NoContent.tsx:19
+msgid "First of all search to buy."
+msgstr "First of all search to buy."
+
+#: src/pages/profile/moneyWallet/TransactionsList.tsx:38
+#: src/pages/profile/moneyWallet/TransactionsList.tsx:39
+#: src/pages/profile/moneyWallet/TransactionsList.tsx:40
+#: src/pages/profile/moneyWallet/TransactionsList.tsx:41
+#: src/pages/profile/moneyWallet/TransactionsList.tsx:42
+#: src/pages/profile/moneyWallet/TransactionsList.tsx:43
+#: src/pages/profile/moneyWallet/TransactionsList.tsx:44
+#: src/pages/profile/moneyWallet/TransactionsList.tsx:45
+msgid "First payment"
+msgstr "First payment"
+
+#: src/shared/filterButtons/FilterButtons.tsx:31
+msgid "Flight"
+msgstr "Flight"
+
+#: src/shared/flight-ticket-info/SelectedTicketInfoListBox.tsx:98
+msgid "Flight class"
+msgstr "Flight class"
+
+#: src/shared/flight-ticket-info/SelectedTicketInfoListBox.tsx:62
+msgid "Flight company"
+msgstr "Flight company"
+
+#: src/shared/flight-ticket-info/SelectedTicketInfoListBox.tsx:74
+msgid "Flight date and time"
+msgstr "Flight date and time"
+
+#: src/shared/flight-ticket-info/FlightPathInfoBox.tsx:48
+msgid "Flight duration: {0} minutes"
+msgstr "Flight duration: {0} minutes"
+
+#: src/pages/flight-ticket-info/FlightTicketInfoPage.tsx:38
+msgid "Flight information"
+msgstr "Flight information"
+
+#: src/shared/flight-ticket-info/SelectedTicketInfoListBox.tsx:86
+msgid "Flight number"
+msgstr "Flight number"
+
+#: src/shared/flight-ticket-info/SelectedFlightTicketInfoBox.tsx:33
+msgid "Flight {0}"
+msgstr "Flight {0}"
+
+#: src/pages/profile/guide/text.ts:18
+msgid "For getting every like on the comment"
+msgstr "For getting every like on the comment"
+
+#: src/pages/profile/guide/text.ts:19
+msgid "For getting every like on the picture"
+msgstr "For getting every like on the picture"
+
+#: src/pages/profile/guide/text.ts:20
+msgid "For receiving the luggage on the place that the person added to the map"
+msgstr "For receiving the luggage on the place that the person added to the map"
+
+#: src/pages/flight/FlightPage.tsx:231
+msgid "Foreign"
+msgstr "Foreign"
+
+#: src/pages/auth/type-password/TypePasswordPage.tsx:32
+msgid "Forget your password?"
+msgstr "Forget your password?"
+
+#: src/pages/add-comment/AddCommentPage.tsx:112
+msgid "Friendly"
+msgstr "Friendly"
+
+#: src/pages/search-flight-result/SortAndFilter.tsx:43
+msgid "From 12 to 16 noon"
+msgstr "From 12 to 16 noon"
+
+#: src/pages/search-flight-result/SortAndFilter.tsx:48
+msgid "From 16 to 20 afternoon"
+msgstr "From 16 to 20 afternoon"
+
+#: src/pages/search-flight-result/SortAndFilter.tsx:53
+msgid "From 20 to 24 night"
+msgstr "From 20 to 24 night"
+
+#: src/pages/search-flight-result/SortAndFilter.tsx:38
+msgid "From 5 to 12 morning"
+msgstr "From 5 to 12 morning"
+
+#: src/pages/search-flight-result/FilterDialog.tsx:196
+msgid "From {0} Toman"
+msgstr "From {0} Toman"
+
+#: src/pages/search-flight-result/TabPrice.tsx:62
+msgid "Full"
+msgstr "Full"
+
+#: src/shared/flight-ticket-info/PassengersInfoBox.tsx:41
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerCheckCard.tsx:32
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerInfoCard.tsx:110
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerInfoCard.tsx:112
+#: src/shared/passenger-count-modal/LastPassengerListModal.tsx:58
+msgid "FullName"
+msgstr "FullName"
+
+#: src/shared/flight-ticket-info/FlightFurtherInformation.tsx:21
+msgid "Further information"
+msgstr "Further information"
+
+#: src/shared/flight-ticket-info/FlightPassengerForm.tsx:201
+#: src/shared/flight-ticket-info/FlightPassengerForm.tsx:202
+#: src/shared/flight-ticket-info/PassengersInfoBox.tsx:53
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerInfoCard.tsx:133
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerInfoCard.tsx:134
+msgid "Gender"
+msgstr "Gender"
+
+#: src/pages/profile/guide/MedalGuidePage.tsx:13
+msgid "Get medal guide"
+msgstr "Get medal guide"
+
+#: src/shared/flight-ticket-info/SelectedTicketInfoListBox.tsx:127
+msgid "Has"
+msgstr "Has"
+
+#: src/shared/layouts/app-layout/BottomNavigation.tsx:36
+msgid "Home"
+msgstr "Home"
+
+#: src/shared/filterButtons/FilterButtons.tsx:32
+msgid "Hotel"
+msgstr "Hotel"
+
+#: src/pages/hotel-order-detail/HotelOrderDetail.tsx:49
+msgid "Hotel inquiries have been made. Please pay for it and then receive the hotel voucher."
+msgstr "Hotel inquiries have been made. Please pay for it and then receive the hotel voucher."
+
+#: src/pages/hotel/hotel-search-destination/HotelSearchInput.tsx:38
+#: src/pages/hotel/hotel-search-destination/SearchHotelDialog.tsx:91
+msgid "Hotel or destination city"
+msgstr "Hotel or destination city"
+
+#: src/pages/hotel/HotelPage.tsx:81
+msgid "Hotel reservation"
+msgstr "Hotel reservation"
+
+#: src/pages/profile/guide/PointGuidePage.tsx:29
+msgid "How to collect points?"
+msgstr "How to collect points?"
+
+#: src/containers/auth/AuthContainer.tsx:26
+msgid "I accept all the <0>rules and regulations</0>."
+msgstr "I accept all the <0>rules and regulations</0>."
+
+#: src/shared/flight-ticket-info/DiscountCodeForm.tsx:19
+msgid "If you have a discount code, enter it in the field below."
+msgstr "If you have a discount code, enter it in the field below."
+
+#: src/pages/profile/moneyWallet/MoneyWalletPage.tsx:44
+msgid "Increase balance"
+msgstr "Increase balance"
+
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:179
+#: src/pages/flight-passenger-info/FlightPassengerInfoPage.tsx:119
+msgid "Infant"
+msgstr "Infant"
+
+#: src/core/book-flight/ContinueBookFlight.tsx:157
+msgid "Infant ({infantCount})"
+msgstr "Infant ({infantCount})"
+
+#: src/shared/passenger-count-modal/FlightPassengerCountModal.tsx:61
+msgid "Infant passenger"
+msgstr "Infant passenger"
+
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:132
+msgid "Information confirmation"
+msgstr "Information confirmation"
+
+#: src/pages/hotel-order-detail/HotelOrderDetail.tsx:36
+msgid "Inquiring"
+msgstr "Inquiring"
+
+#: src/pages/flight/FlightPage.tsx:215
+msgid "Internal"
+msgstr "Internal"
+
+#: src/pages/flight/FlightPage.tsx:173
+msgid "International flights"
+msgstr "International flights"
+
+#: src/pages/add-place/useAddPlace.ts:23
+msgid "Label must have at least one item"
+msgstr "Label must have at least one item"
+
+#: src/shared/slider-container/SliderContainer.tsx:77
+msgid "Link copied to clipboard."
+msgstr "Link copied to clipboard."
+
+#: src/shared/loading/FullScreenLoading.tsx:24
+#: src/shared/passenger-count-modal/LastPassengerListModal.tsx:48
+msgid "Loading..."
+msgstr "Loading..."
+
+#: src/pages/auth/login/LoginPage.tsx:95
+#: src/pages/auth/otp/OtpPage.tsx:172
+msgid "Login"
+msgstr "Login"
+
+#: src/pages/auth/login/LoginPage.tsx:105
+msgid "Login with Google"
+msgstr "Login with Google"
+
+#: src/pages/profile/PointsSection.tsx:55
+msgid "Medals"
+msgstr "Medals"
+
+#: src/shared/cart/PlaceBriefCartWithImageAndName.tsx:46
+msgid "Media has been removed. Thank you."
+msgstr "Media has been removed. Thank you."
+
+#: src/pages/things-add-photo/ThingsAddPhotoFooter.tsx:60
+msgid "Media has been submitted. Thank you."
+msgstr "Media has been submitted. Thank you."
+
+#: src/shared/flight-ticket-info/OtherPersonPhoneNumberForm.tsx:40
+msgid "Mobile number"
+msgstr "Mobile number"
+
+#: src/pages/auth/login/LoginPage.tsx:78
+msgid "Mobile or Email"
+msgstr "Mobile or Email"
+
+#: src/pages/profile/moneyWallet/MoneyWalletPage.tsx:21
+msgid "Money wallet"
+msgstr "Money wallet"
+
+#: src/pages/things/ThingsPageStuff.tsx:39
+msgid "More"
+msgstr "More"
+
+#: src/shared/newBadge/NewBadge.tsx:52
+msgid "More information"
+msgstr "More information"
+
+#: src/pages/search-flight-result/SortAndFilter.tsx:37
+msgid "Morning"
+msgstr "Morning"
+
+#: src/pages/home/HomePage.tsx:14
+msgid "Most Viewed Destinations"
+msgstr "Most Viewed Destinations"
+
+#: src/pages/profile/myTravels/MyTravelsPage.tsx:23
+msgid "My travels"
+msgstr "My travels"
+
+#: src/shared/flight-ticket-info/FlightPassengerForm.tsx:158
+#: src/shared/flight-ticket-info/FlightPassengerForm.tsx:159
+msgid "Name"
+msgstr "Name"
+
+#: src/pages/profile/editProfile/EditProfilePage.tsx:49
+msgid "Name *"
+msgstr "Name *"
+
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerCheckCard.tsx:33
+msgid "National Code"
+msgstr "National Code"
+
+#: src/shared/flight-ticket-info/FlightPassengerForm.tsx:125
+#: src/shared/flight-ticket-info/FlightPassengerForm.tsx:225
+#: src/shared/flight-ticket-info/FlightPassengerForm.tsx:226
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerInfoCard.tsx:157
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerInfoCard.tsx:158
+msgid "National code"
+msgstr "National code"
+
+#: src/shared/flight-ticket-info/PassengersInfoBox.tsx:65
+msgid "National/Passport number"
+msgstr "National/Passport number"
+
+#: src/shared/flight-ticket-info/PassengersInfoBox.tsx:90
+msgid "Nationality"
+msgstr "Nationality"
+
+#: src/shared/layouts/app-layout/BottomNavigation.tsx:37
+msgid "New Location"
+msgstr "New Location"
+
+#: src/pages/search-flight-result/SortAndFilter.tsx:52
+msgid "Night"
+msgstr "Night"
+
+#: src/shared/flight-ticket-info/SelectedTicketInfoListBox.tsx:139
+msgid "No"
+msgstr "No"
+
+#: src/shared/things-photos/ImageLess.tsx:26
+msgid "No photos for this place!"
+msgstr "No photos for this place!"
+
+#: src/pages/hotel-details/HotelRoomSelectionSection.tsx:69
+#: src/pages/hotel-search/SearchSection.tsx:76
+msgid "No result content."
+msgstr "No result content."
+
+#: src/shared/search/NoDataContentSection.tsx:32
+msgid "No result found for «{searchTerm}»."
+msgstr "No result found for «{searchTerm}»."
+
+#: src/pages/search-flight-result/SortAndFilter.tsx:42
+msgid "Noon"
+msgstr "Noon"
+
+#: src/App.tsx:58
+msgid "Ok"
+msgstr "Ok"
+
+#: src/pages/flight/FlightPage.tsx:269
+msgid "One-way"
+msgstr "One-way"
+
+#: src/pages/hotel-order-detail/HotelOrderDetail.tsx:77
+msgid "Order detail"
+msgstr "Order detail"
+
+#: src/pages/flight/FlightPage.tsx:287
+msgid "Origin and destination"
+msgstr "Origin and destination"
+
+#: src/pages/hotel-order-detail/HotelOrderDetail.tsx:53
+msgid "Paid"
+msgstr "Paid"
+
+#: src/pages/flight/FlightPage.tsx:171
+msgid "Passenger"
+msgstr "Passenger"
+
+#: src/pages/flight-passenger-info/FlightPassengerInfoPage.tsx:106
+msgid "Passenger's information"
+msgstr "Passenger's information"
+
+#: src/pages/flight/FlightPage.tsx:167
+msgid "Passengers"
+msgstr "Passengers"
+
+#: src/pages/flight/FlightPage.tsx:421
+#: src/pages/flight/FlightPage.tsx:446
+msgid "Passengers count"
+msgstr "Passengers count"
+
+#: src/shared/flight-ticket-info/PassengersInfoBox.tsx:112
+msgid "Passengers information"
+msgstr "Passengers information"
+
+#: src/shared/flight-ticket-info/FlightPassengerForm.tsx:126
+msgid "Passport"
+msgstr "Passport"
+
+#: src/shared/flight-ticket-info/FlightPassengerForm.tsx:322
+#: src/shared/flight-ticket-info/FlightPassengerForm.tsx:323
+msgid "Passport number"
+msgstr "Passport number"
+
+#: src/pages/auth/set-password/SetPasswordPage.tsx:41
+msgid "Password"
+msgstr "Password"
+
+#: src/shared/hotel/hotel-passenger-room-info/ActionButton.tsx:77
+msgid "Payment by credit"
+msgstr "Payment by credit"
+
+#: src/pages/hotel-order-detail/HotelOrderDetail.tsx:57
+msgid "Payment was successful."
+msgstr "Payment was successful."
+
+#: src/pages/auth/otp/OtpPage.tsx:24
+msgid "Phone"
+msgstr "Phone"
+
+#: src/pages/profile/EditProfilePage.tsx:141
+msgid "Phone number"
+msgstr "Phone number"
+
+#: src/pages/profile/editProfile/EditProfilePage.tsx:66
+msgid "Phone number *"
+msgstr "Phone number *"
+
+#: src/shared/things-photos/ThingsPhotos.tsx:78
+msgid "Photo"
+msgstr "Photo"
+
+#: src/pages/profile/ProfilePage.tsx:84
+msgid "Photos"
+msgstr "Photos"
+
+#: src/pages/add-place/useAddPlace.ts:76
+msgid "Place has been submitted for review. Thank you."
+msgstr "Place has been submitted for review. Thank you."
+
+#: src/pages/add-place/AddPlacePage.tsx:46
+msgid "Place name *"
+msgstr "Place name *"
+
+#: src/pages/search-flight-result/NoContentResult.tsx:25
+msgid "Please choose another date."
+msgstr "Please choose another date."
+
+#: src/pages/auth/otp/OtpPage.tsx:118
+msgid "Please enter the code correctly."
+msgstr "Please enter the code correctly."
+
+#: src/pages/things-add-photo/ThingsAddPhotosPage.tsx:85
+#: src/shared/image-uploader/ImageUploader.tsx:107
+msgid "Please wait"
+msgstr "Please wait"
+
+#: src/pages/profile/guide/PointGuidePage.tsx:15
+msgid "Point's guide"
+msgstr "Point's guide"
+
+#: src/pages/profile/ProfilePage.tsx:74
+msgid "Points"
+msgstr "Points"
+
+#: src/pages/profile/guide/text.ts:16
+msgid "Points is a rough ruler for how much our user community trusts you. And the more you can convince the other members of this website, the more your point will increase and the more your access will be on the site. And at the highest level of your point, you will become the site manager. In fact, it is not us who are rotating the site, it is the users who are doing this."
+msgstr "Points is a rough ruler for how much our user community trusts you. And the more you can convince the other members of this website, the more your point will increase and the more your access will be on the site. And at the highest level of your point, you will become the site manager. In fact, it is not us who are rotating the site, it is the users who are doing this."
+
+#: src/pages/profile/guide/text.ts:17
+msgid "Points is completely optional. And all three activities of users on the tourism website, including adding a place, adding views to places, or editing the information of tourist places, none of them require points."
+msgstr "Points is completely optional. And all three activities of users on the tourism website, including adding a place, adding views to places, or editing the information of tourist places, none of them require points."
+
+#: src/pages/search/search-page/SearchSection.tsx:166
+msgid "Popular cities"
+msgstr "Popular cities"
+
+#: src/shared/hotel/hotel-room-selection/HotelRoomSelection.tsx:73
+msgid "Price of {0} nights"
+msgstr "Price of {0} nights"
+
+#: src/shared/hotel/hotel-room-selection/HotelRoomSelection.tsx:49
+msgid "Price per night:"
+msgstr "Price per night:"
+
+#: src/pages/search-flight-result/FilterDialog.tsx:189
+msgid "Price range"
+msgstr "Price range"
+
+#: src/shared/travels/TravelHistoryBox.tsx:44
+msgid "Price: {0} Rial"
+msgstr "Price: {0} Rial"
+
+#: src/shared/layouts/app-layout/BottomNavigation.tsx:35
+msgid "Profile"
+msgstr "Profile"
+
+#: src/shared/province-city-section/province/ProvinceSection.tsx:31
+msgid "Province"
+msgstr "Province"
+
+#: src/shared/province-city-section/province/ProvinceSection.tsx:31
+msgid "Province *"
+msgstr "Province *"
+
+#: src/shared/hotel/hotel-order-info/HotelOrderInfo.tsx:30
+msgid "Purchase time:"
+msgstr "Purchase time:"
+
+#: src/pages/add-comment/AddCommentPage.tsx:62
+msgid "Rate this experience"
+msgstr "Rate this experience"
+
+#: src/pages/auth/set-password/SetPasswordPage.tsx:56
+msgid "Re-enter password"
+msgstr "Re-enter password"
+
+#: src/pages/auth/otp/OtpResend.tsx:52
+msgid "Re-send code"
+msgstr "Re-send code"
+
+#: src/shared/hotel/hotel-passenger-room-info/ActionButton.tsx:86
+msgid "Receipt of invoice"
+msgstr "Receipt of invoice"
+
+#: src/shared/hotel/hotel-passenger-room-info/ActionButton.tsx:83
+msgid "Receive watcher"
+msgstr "Receive watcher"
+
+#: src/pages/search/search-page/SearchSection.tsx:135
+msgid "Recently viewed"
+msgstr "Recently viewed"
+
+#: src/pages/auth/result-by-google/ResultByGooglePage.tsx:52
+msgid "Redirecting..."
+msgstr "Redirecting..."
+
+#: src/shared/flight-ticket-info/FlightFurtherInformation.tsx:89
+msgid "Refund rules"
+msgstr "Refund rules"
+
+#: src/shared/flight-ticket-info/SelectedTicketInfoListBox.tsx:134
+msgid "Refundable"
+msgstr "Refundable"
+
+#: src/shared/hotel/hotel-room-selection/HotelRoomSelection.tsx:96
+msgid "Registration of reservation inquiry"
+msgstr "Registration of reservation inquiry"
+
+#: src/pages/things/ThingsRelatedLocation.tsx:23
+msgid "Related location"
+msgstr "Related location"
+
+#: src/pages/hotel-order-detail/HotelOrderDetail.tsx:48
+msgid "Reservation - Pending payment"
+msgstr "Reservation - Pending payment"
+
+#: src/shared/hotel/hotel-order-info/HotelOrderInfo.tsx:18
+msgid "Reservation number:"
+msgstr "Reservation number:"
+
+#: src/shared/hotel/hotel-order-info/HotelOrderInfo.tsx:36
+msgid "Reservation status:"
+msgstr "Reservation status:"
+
+#: src/pages/add-place/AddPlacePage.tsx:88
+msgid "Residence"
+msgstr "Residence"
+
+#: src/pages/add-place/AddPlacePage.tsx:89
+msgid "Restaurant"
+msgstr "Restaurant"
+
+#: src/shared/error/OverlayError.tsx:22
+msgid "Retry"
+msgstr "Retry"
+
+#: src/shared/flight-ticket-info/SelectedTicketInfoListBox.tsx:168
+msgid "Return"
+msgstr "Return"
+
+#: src/pages/flight/FlightPage.tsx:387
+msgid "Return date"
+msgstr "Return date"
+
+#: src/pages/flight-ticket-info/FlightTicketInfoPage.tsx:38
+msgid "Return flight information"
+msgstr "Return flight information"
+
+#: src/shared/flight-ticket-info/TicketSelectionCaptionSection.tsx:16
+msgid "Return ticket"
+msgstr "Return ticket"
+
+#: src/pages/hotel-details/HotelDetailsPage.tsx:121
+msgid "Rooms"
+msgstr "Rooms"
+
+#: src/pages/flight/FlightPage.tsx:281
+msgid "Round-trip"
+msgstr "Round-trip"
+
+#: src/pages/profile/moneyWallet/TransactionsList.tsx:58
+msgid "Row number"
+msgstr "Row number"
+
+#: src/pages/hotel-details/Rules.tsx:15
+#: src/pages/term/TermsPage.tsx:13
+msgid "Rules and regulations"
+msgstr "Rules and regulations"
+
+#: src/pages/search-flight-result/SortSheet.tsx:49
+msgid "Save changes"
+msgstr "Save changes"
+
+#: src/pages/search-flight-result/FilterDialog.tsx:263
+msgid "Save filter"
+msgstr "Save filter"
+
+#: src/pages/flight/FlightPage.tsx:457
+msgid "Search"
+msgstr "Search"
+
+#: src/pages/hotel-details/HotelBookData.tsx:48
+msgid "Search and book rooms"
+msgstr "Search and book rooms"
+
+#: src/pages/flight/search-city/SearchCityHistory.tsx:23
+#: src/pages/hotel/hotel-search-destination/SearchHotelHistory.tsx:24
+msgid "Search history"
+msgstr "Search history"
+
+#: src/shared/flight-ticket-info/FlightTicketInfoBox.tsx:88
+msgid "Seat"
+msgstr "Seat"
+
+#: src/pages/search/search-page/SearchSection.tsx:124
+msgid "See all results for «{searchTerm}»"
+msgstr "See all results for «{searchTerm}»"
+
+#: src/pages/flight/FlightPage.tsx:327
+#: src/pages/flight/FlightPage.tsx:349
+#: src/pages/flight/FlightPage.tsx:364
+msgid "Select Date"
+msgstr "Select Date"
+
+#: src/pages/profile/feedback/ProfileFeedbackPage.tsx:84
+msgid "Select a subject"
+msgstr "Select a subject"
+
+#: src/App.tsx:58
+msgid "Select date"
+msgstr "Select date"
+
+#: src/pages/flight/search-city/SearchCityDialog.tsx:118
+msgid "Select destination"
+msgstr "Select destination"
+
+#: src/pages/flight/search-city/SearchCityDialog.tsx:118
+msgid "Select origin"
+msgstr "Select origin"
+
+#: src/pages/things-add-photo/ThingsAddPhotoHeader.tsx:18
+#: src/shared/add-photo-button/AddPhotoButton.tsx:50
+msgid "Selected photo"
+msgstr "Selected photo"
+
+#: src/pages/profile/feedback/ProfileFeedbackPage.tsx:131
+msgid "Send feedback"
+msgstr "Send feedback"
+
+#: src/pages/flight-passenger-info/FlightPassengerInfoPage.tsx:124
+msgid "Send ticket to email or mobile number"
+msgstr "Send ticket to email or mobile number"
+
+#: src/pages/profile/feedback/ProfileFeedbackPage.tsx:63
+msgid "Send us your suggestion or criticism to improve the program"
+msgstr "Send us your suggestion or criticism to improve the program"
+
+#: src/shared/flight-ticket-info/OtherPersonPhoneNumberForm.tsx:26
+msgid "Sending ticket to other person"
+msgstr "Sending ticket to other person"
+
+#: src/pages/auth/set-password/SetPasswordPage.tsx:28
+msgid "Set password"
+msgstr "Set password"
+
+#: src/shared/slider-container/SliderContainer.tsx:126
+msgid "Share"
+msgstr "Share"
+
+#: src/shared/horizontal-scrollable/HeaderAndShowAll.tsx:24
+msgid "Show all"
+msgstr "Show all"
+
+#: src/pages/hotel-details/HotelRoomSelectionSection.tsx:62
+msgid "Show more rooms"
+msgstr "Show more rooms"
+
+#: src/pages/hotel-details/HotelDetailsPage.tsx:106
+msgid "Show on map"
+msgstr "Show on map"
+
+#: src/pages/add-comment/AddCommentPage.tsx:114
+msgid "Single"
+msgstr "Single"
+
+#: src/pages/search-flight-result/SortAndFilter.tsx:99
+#: src/pages/search-flight-result/SortAndFilter.tsx:124
+msgid "Sort by"
+msgstr "Sort by"
+
+#: src/pages/flight/search-inputs/SearchInputs.tsx:89
+msgid "Source city"
+msgstr "Source city"
+
+#: src/shared/flight-ticket-info/SelectedTicketInfoListBox.tsx:122
+msgid "Special service"
+msgstr "Special service"
+
+#: src/shared/hotel/hotel-cart/HotelCart.tsx:91
+msgid "Starting price / Each night:"
+msgstr "Starting price / Each night:"
+
+#: src/shared/travels/TravelHistoryBox.tsx:57
+msgid "Status:"
+msgstr "Status:"
+
+#: src/pages/profile/feedback/ProfileFeedbackPage.tsx:69
+msgid "Subject"
+msgstr "Subject"
+
+#: src/pages/auth/restore-password/RestorePasswordPage.tsx:31
+#: src/pages/auth/set-password/SetPasswordPage.tsx:69
+msgid "Submit"
+msgstr "Submit"
+
+#: src/shared/flight-ticket-info/DiscountCodeForm.tsx:41
+msgid "Submit code"
+msgstr "Submit code"
+
+#: src/pages/add-comment/AddCommentPage.tsx:191
+msgid "Submit comment"
+msgstr "Submit comment"
+
+#: src/pages/profile/feedback/ProfileFeedbackPage.tsx:47
+msgid "Successfully registered"
+msgstr "Successfully registered"
+
+#: src/shared/hotel/hotel-passenger-room-info/ActionButton.tsx:64
+msgid "Sufficient inventory"
+msgstr "Sufficient inventory"
+
+#: src/pages/profile/ProfileMenu.tsx:63
+msgid "Support"
+msgstr "Support"
+
+#: src/pages/add-place/AddPlacePage.tsx:149
+msgid "Tag"
+msgstr "Tag"
+
+#: src/pages/add-place/AddPlacePage.tsx:148
+msgid "Tag *"
+msgstr "Tag *"
+
+#: src/pages/add-comment/AddCommentPage.tsx:142
+#: src/pages/add-place/AddPlacePage.tsx:47
+#: src/pages/add-place/AddPlacePage.tsx:72
+#: src/pages/add-place/AddPlacePage.tsx:169
+#: src/pages/profile/feedback/ProfileFeedbackPage.tsx:107
+#: src/shared/province-city-section/city/CitySection.tsx:33
+#: src/shared/province-city-section/province/ProvinceSection.tsx:32
+msgid "Text"
+msgstr "Text"
+
+#: src/pages/add-place/AddPlacePage.tsx:223
+msgid "Text *"
+msgstr "Text *"
+
+#: src/pages/auth/otp/OtpPage.tsx:121
+msgid "The code you entered is wrong."
+msgstr "The code you entered is wrong."
+
+#: src/pages/hotel-order-detail/HotelOrderDetail.tsx:111
+msgid "The final amount may change after inquiry."
+msgstr "The final amount may change after inquiry."
+
+#: src/pages/city-attractions/CityAttractionsPage.tsx:51
+#: src/pages/city-most-popular/CityMostPopularPage.tsx:25
+msgid "The most visited destinations"
+msgstr "The most visited destinations"
+
+#: src/shared/passenger-count-modal/FlightPassengerCountModal.tsx:41
+msgid "The number of infants should not be less than adults and the number of passengers should not be more than 10 people."
+msgstr "The number of infants should not be less than adults and the number of passengers should not be more than 10 people."
+
+#: src/pages/things-add-photo/ThingsAddPhotosPage.tsx:82
+#: src/shared/image-uploader/ImageUploader.tsx:104
+msgid "The picture is uploading"
+msgstr "The picture is uploading"
+
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:56
+msgid "The ticket will be send to your phone number."
+msgstr "The ticket will be send to your phone number."
+
+#: src/pages/hotel-search/SearchSection.tsx:80
+msgid "There are no hotels on this date"
+msgstr "There are no hotels on this date"
+
+#: src/pages/hotel-details/HotelRoomSelectionSection.tsx:73
+#: src/pages/hotel-search/SearchSection.tsx:80
+msgid "There is no available room in your selected time frame, choose another date"
+msgstr "There is no available room in your selected time frame, choose another date"
+
+#: src/pages/profile/myTravels/NoContent.tsx:16
+msgid "There is no travel in your account."
+msgstr "There is no travel in your account."
+
+#: src/pages/auth/login/LoginPage.tsx:83
+#: src/pages/profile/feedback/ProfileFeedbackPage.tsx:111
+msgid "This field is required."
+msgstr "This field is required."
+
+#: src/pages/profile/feedback/ProfileFeedbackPage.tsx:112
+#: src/pages/profile/feedback/ProfileFeedbackPage.tsx:114
+msgid "This field most be lower than 50 characters."
+msgstr "This field most be lower than 50 characters."
+
+#: src/pages/auth/login/LoginPage.tsx:82
+#: src/pages/auth/login/LoginPage.tsx:85
+msgid "This field should be either mobile or email."
+msgstr "This field should be either mobile or email."
+
+#: src/pages/auth/restore-password/RestorePasswordPage.tsx:24
+#: src/pages/auth/set-password/SetPasswordPage.tsx:42
+#: src/pages/auth/set-password/SetPasswordPage.tsx:57
+#: src/pages/auth/set-password/SetPasswordPage.tsx:63
+#: src/pages/auth/type-password/TypePasswordPage.tsx:25
+msgid "This is required."
+msgstr "This is required."
+
+#: src/shared/flight-ticket-info/InputValidation.ts:29
+msgid "This national code is a duplicate"
+msgstr "This national code is a duplicate"
+
+#: src/shared/flight-ticket-info/InputValidation.ts:30
+msgid "This national code is not correct"
+msgstr "This national code is not correct"
+
+#: src/shared/flight-ticket-info/InputValidation.ts:46
+msgid "This passport code is not correct"
+msgstr "This passport code is not correct"
+
+#: src/shared/flight-ticket-info/InputValidation.ts:46
+msgid "This passport number is not correct"
+msgstr "This passport number is not correct"
+
+#: src/pages/profile/EditProfilePage.tsx:149
+msgid "This phone number is not correct"
+msgstr "This phone number is not correct"
+
+#: src/shared/flight-ticket-info/SelectedTicketInfoListBox.tsx:151
+msgid "Ticket information"
+msgstr "Ticket information"
+
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:198
+msgid "Ticket information and further information will be sent to this address."
+msgstr "Ticket information and further information will be sent to this address."
+
+#: src/pages/search-flight-result/FilterDialog.tsx:209
+#: src/shared/flight-ticket-info/FlightFurtherInformation.tsx:51
+msgid "Ticket type"
+msgstr "Ticket type"
+
+#: src/pages/search-flight-result/FilterDialog.tsx:152
+msgid "Time to move"
+msgstr "Time to move"
+
+#: src/pages/search-flight-result/FilterDialog.tsx:199
+msgid "To {0} Toman"
+msgstr "To {0} Toman"
+
+#: src/core/book-flight/ContinueBookFlight.tsx:129
+#: src/core/book-flight/ContinueBookFlight.tsx:140
+#: src/core/book-flight/ContinueBookFlight.tsx:151
+#: src/core/book-flight/ContinueBookFlight.tsx:162
+msgid "Tomans"
+msgstr "Tomans"
+
+#: src/core/book-flight/ContinueBookFlight.tsx:118
+msgid "Total Price"
+msgstr "Total Price"
+
+#: src/pages/profile/moneyWallet/TransactionsList.tsx:50
+msgid "Transactions list"
+msgstr "Transactions list"
+
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:192
+msgid "Travel information"
+msgstr "Travel information"
+
+#: src/shared/travels/TravelHistoryBox.tsx:51
+msgid "Travel type: {0}"
+msgstr "Travel type: {0}"
+
+#: src/pages/add-place/AddPlacePage.tsx:128
+msgid "Type"
+msgstr "Type"
+
+#: src/pages/add-place/AddPlacePage.tsx:127
+msgid "Type *"
+msgstr "Type *"
+
+#: src/pages/hotel-order-detail/HotelOrderDetail.tsx:44
+msgid "Unfortunately, the desired room is not available on your selected date. You can search for another hotel or time."
+msgstr "Unfortunately, the desired room is not available on your selected date. You can search for another hotel or time."
+
+#: src/pages/search-flight-result/NoContentResult.tsx:20
+msgid "Unfortunately, there are no flights for your desired route on this date."
+msgstr "Unfortunately, there are no flights for your desired route on this date."
+
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:50
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:139
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:140
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:141
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:142
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:143
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:148
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:149
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:150
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:157
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:158
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:159
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:160
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:161
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:166
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:167
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:168
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:180
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:182
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:183
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:184
+#: src/pages/flight-ticket-info/FlightTicketInfoPage.tsx:54
+#: src/pages/flight-ticket-info/FlightTicketInfoPage.tsx:57
+#: src/pages/flight-ticket-info/FlightTicketInfoPage.tsx:59
+#: src/pages/flight-ticket-info/FlightTicketInfoPage.tsx:61
+#: src/pages/search-flight-result/SearchFlightResultPage.tsx:96
+#: src/pages/search-flight-result/SearchFlightResultPage.tsx:111
+msgid "Unknown"
+msgstr "Unknown"
+
+#: src/pages/things-add-photo/ThingsAddPhotoFooter.tsx:78
+#: src/shared/image-uploader/ImageUploader.tsx:70
+#: src/shared/modal/FullScreenModal.tsx:103
+msgid "Upload image"
+msgstr "Upload image"
+
+#: src/shared/input/MapInput.tsx:74
+msgid "User denied Geolocation."
+msgstr "User denied Geolocation."
+
+#: src/shared/hotel/hotel-passenger-room-info/ActionButton.tsx:50
+msgid "Wallet balance"
+msgstr "Wallet balance"
+
+#: src/shared/comment/Comment.tsx:156
+msgid "Was it useful?"
+msgstr "Was it useful?"
+
+#: src/pages/profile/guide/PointGuidePage.tsx:17
+msgid "What is point?"
+msgstr "What is point?"
+
+#: src/pages/home/HomepageHeader.tsx:36
+#: src/shared/input/SearchInput.tsx:34
+msgid "Where? What?"
+msgstr "Where? What?"
+
+#: src/pages/profile/guide/PointGuidePage.tsx:23
+msgid "Why do we need points?"
+msgstr "Why do we need points?"
+
+#: src/pages/add-comment/AddCommentPage.tsx:113
+msgid "Work"
+msgstr "Work"
+
+#: src/shared/flight-ticket-info/InputValidation.ts:52
+msgid "Wrong e-mail format"
+msgstr "Wrong e-mail format"
+
+#: src/shared/flight-ticket-info/SelectedTicketInfoListBox.tsx:139
+msgid "Yes"
+msgstr "Yes"
+
+#: src/pages/profile/guide/text.ts:8
+msgid "You get this badge by adding a profile picture in your account section"
+msgstr "You get this badge by adding a profile picture in your account section"
+
+#: src/pages/profile/guide/text.ts:7
+msgid "You get this badge by completing all your information in the account section"
+msgstr "You get this badge by completing all your information in the account section"
+
+#: src/pages/profile/guide/text.ts:3
+msgid "You get this badge by liking the first place or comment"
+msgstr "You get this badge by liking the first place or comment"
+
+#: src/pages/profile/guide/text.ts:5
+msgid "You get this badge by writing your first review for a place"
+msgstr "You get this badge by writing your first review for a place"
+
+#: src/pages/profile/guide/text.ts:4
+msgid "You get this badge when you add your first image for a location"
+msgstr "You get this badge when you add your first image for a location"
+
+#: src/pages/profile/guide/text.ts:6
+msgid "You get this badge when you add your first location to the map"
+msgstr "You get this badge when you add your first location to the map"
+
+#: src/pages/profile/guide/text.ts:9
+msgid "You will earn this badge by writing {0} comments per week"
+msgstr "You will earn this badge by writing {0} comments per week"
+
+#: src/pages/profile/guide/text.ts:10
+msgid "You will receive this badge by liking {0} times per week"
+msgstr "You will receive this badge by liking {0} times per week"
+
+#: src/pages/profile/guide/text.ts:11
+msgid "You will receive this badge by receiving {0} likes on one of your devices"
+msgstr "You will receive this badge by receiving {0} likes on one of your devices"
+
+#: src/pages/profile/ProfilePage.tsx:49
+msgid "Your"
+msgstr "Your"
+
+#: src/pages/profile/editProfile/useEditProfile.ts:62
+#: src/pages/profile/editProfile/useEditProfile.ts:91
+msgid "Your profile has been updated."
+msgstr "Your profile has been updated."
+
+#: src/core/book-flight/RequireBookFlight.tsx:40
+msgid "Your time for booking flight has been invalidated"
+msgstr "Your time for booking flight has been invalidated"
+
+#: src/core/book-hotel/RequireBookHotel.tsx:32
+msgid "Your time for booking hotel has been invalidated"
+msgstr "Your time for booking hotel has been invalidated"
+
+#: src/shared/passenger-count-modal/HotelRoomCounter.tsx:88
+msgid "add room"
+msgstr "add room"
+
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerInfoCard.tsx:87
+msgid "adult passenger {0} :"
+msgstr "adult passenger {0} :"
+
+#: src/shared/hotel/hotel-order-info/HotelOrderInfo.tsx:24
+msgid "booker:"
+msgstr "booker:"
+
+#: src/pages/search-flight-result/getTags.ts:8
+msgid "cabin-type-business"
+msgstr "Business"
+
+#: src/pages/search-flight-result/getTags.ts:9
+msgid "cabin-type-economy"
+msgstr "Economy"
+
+#: src/pages/search-flight-result/getTags.ts:10
+msgid "cabin-type-premium_economy"
+msgstr "Premium Economy"
+
+#: src/shared/hotel/hotel-info/HotelInfo.tsx:32
+msgid "change room"
+msgstr "change room"
+
+#: src/shared/passenger-count-modal/AgeMenu.tsx:40
+msgid "child"
+msgstr "child"
+
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerInfoCard.tsx:89
+msgid "child passenger {0} :"
+msgstr "child passenger {0} :"
+
+#: src/shared/hotel/hotel-inputs/PassengerCountInput.tsx:25
+#: src/shared/hotel/hotel-inputs/PassengerCountInputBottomRounded.tsx:37
+msgid "child,"
+msgstr "child,"
+
+#: src/shared/input/MapInput.tsx:87
+msgid "current location"
+msgstr "current location"
+
+#: src/pages/hotel-passengers/hotel-info/HotelInfo.tsx:51
+msgid "day"
+msgstr "day"
+
+#: src/pages/add-comment/useAddComment.ts:26
+#: src/pages/add-place/useAddPlace.ts:17
+#: src/pages/profile/editProfile/useEditProfile.ts:25
+msgid "description must be at most 50 characters"
+msgstr "description must be at most 50 characters"
+
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerCheckCard.tsx:81
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerInfoCard.tsx:24
+msgid "eight"
+msgstr "eight"
+
+#: src/pages/profile/editProfile/useEditProfile.ts:30
+msgid "email must be a valid"
+msgstr "email must be a valid"
+
+#: src/shared/hotel/hotel-info/HotelInfo.tsx:49
+msgid "enter:"
+msgstr "enter:"
+
+#: src/pages/profile/ProfileHeaderWithCover.tsx:146
+msgid "exit"
+msgstr "exit"
+
+#: src/shared/hotel/hotel-info/HotelInfo.tsx:55
+msgid "exit:"
+msgstr "exit:"
+
+#: src/pages/hotel-details/HotelRelateSection.tsx:62
+msgid "facilities"
+msgstr "facilities"
+
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerCheckCard.tsx:78
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerInfoCard.tsx:21
+msgid "fifth"
+msgstr "fifth"
+
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerCheckCard.tsx:74
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerInfoCard.tsx:17
+msgid "first"
+msgstr "first"
+
+#: src/shared/passenger-count-modal/HotelPassengerCountModal.tsx:17
+msgid "first room"
+msgstr "first room"
+
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerCheckCard.tsx:74
+msgid "fitst"
+msgstr "fitst"
+
+#: src/shared/passenger-count-modal/HotelPassengerCountModal.tsx:17
+msgid "forth room"
+msgstr "forth room"
+
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerCheckCard.tsx:77
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerInfoCard.tsx:20
+msgid "fourth"
+msgstr "fourth"
+
+#: src/pages/hotel-search/HotelSearchResultPage.tsx:74
+msgid "hotels {0}"
+msgstr "hotels {0}"
+
+#: src/shared/flight-ticket-info/FlightPassengerForm.tsx:82
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerInfoCard.tsx:78
+msgid "last passenger list"
+msgstr "last passenger list"
+
+#: src/shared/passenger-count-modal/LastPassengerListModal.tsx:61
+msgid "nationalCodeOrPassportCode"
+msgstr "nationalCodeOrPassportCode"
+
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerCheckCard.tsx:82
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerInfoCard.tsx:25
+msgid "nine"
+msgstr "nine"
+
+#: src/shared/hotel/hotel-info/HotelInfo.tsx:67
+msgid "number of rooms:"
+msgstr "number of rooms:"
+
+#: src/pages/hotel-passengers/HotelPassengers.tsx:63
+msgid "passengers"
+msgstr "passengers"
+
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:202
+msgid "phone number"
+msgstr "phone number"
+
+#: src/shared/hotel/hotel-inputs/PassengerCountInput.tsx:27
+#: src/shared/hotel/hotel-inputs/PassengerCountInputBottomRounded.tsx:39
+msgid "room"
+msgstr "room"
+
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerRoomCheck.tsx:13
+msgid "room and passenger info"
+msgstr "room and passenger info"
+
+#: src/shared/passenger-count-modal/HotelRoomCounter.tsx:50
+msgid "room {0}"
+msgstr "room {0}"
+
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerInfoCard.tsx:174
+msgid "room {0} :"
+msgstr "room {0} :"
+
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerCheckCard.tsx:90
+msgid "room {0}:"
+msgstr "room {0}:"
+
+#: src/pages/hotel-details/HotelBookData.tsx:42
+msgid "rooms count"
+msgstr "rooms count"
+
+#: src/shared/passenger-count-modal/LastPassengerListModal.tsx:43
+msgid "search"
+msgstr "search"
+
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerCheckCard.tsx:75
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerInfoCard.tsx:18
+msgid "second"
+msgstr "second"
+
+#: src/shared/passenger-count-modal/HotelPassengerCountModal.tsx:17
+msgid "second room"
+msgstr "second room"
+
+#: src/shared/passenger-count-modal/LastPassengerListModal.tsx:73
+msgid "select"
+msgstr "select"
+
+#: src/shared/flight-ticket-info/FlightPassengerForm.tsx:136
+msgid "select passanger last"
+msgstr "select passanger last"
+
+#: src/shared/flight-ticket-info/FlightPassengerForm.tsx:143
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerInfoCard.tsx:95
+msgid "select passenger last"
+msgstr "select passenger last"
+
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerCheckCard.tsx:80
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerInfoCard.tsx:23
+msgid "seven"
+msgstr "seven"
+
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerInfoCard.tsx:22
+msgid "six"
+msgstr "six"
+
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerCheckCard.tsx:79
+msgid "sixth"
+msgstr "sixth"
+
+#: src/shared/hotel/hotel-info/HotelInfo.tsx:61
+msgid "staying time:"
+msgstr "staying time:"
+
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerCheckCard.tsx:83
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerInfoCard.tsx:26
+msgid "ten"
+msgstr "ten"
+
+#: src/shared/passenger-count-modal/HotelPassengerCountModal.tsx:50
+msgid "the number of passengers should not be more than 10 people."
+msgstr "the number of passengers should not be more than 10 people."
+
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerCheckCard.tsx:76
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerInfoCard.tsx:19
+msgid "third"
+msgstr "third"
+
+#: src/shared/passenger-count-modal/HotelPassengerCountModal.tsx:17
+msgid "third room"
+msgstr "third room"
+
+#: src/pages/search-flight-result/getTags.ts:5
+msgid "ticket-type-charter"
+msgstr "Charter"
+
+#: src/pages/search-flight-result/getTags.ts:6
+msgid "ticket-type-systemic"
+msgstr "Systemic"
+
+#: src/pages/profile/guide/PointGuidePage.tsx:62
+msgid "x2 Taken points"
+msgstr "x2 Taken points"
+
+#: src/shared/hotel/hotel-room-selection/HotelRoomSelection.tsx:55
+msgid "{0}"
+msgstr "{0}"
+
+#: src/shared/rate/Rate.tsx:24
+#: src/shared/rate/RateReverse.tsx:15
+msgid "{0} Comments"
+msgstr "{0} Comments"
+
+#: src/pages/profile/guide/PointGuidePage.tsx:38
+#: src/pages/profile/guide/PointGuidePage.tsx:50
+msgid "{0} Points"
+msgstr "{0} Points"
+
+#: src/pages/hotel-search/SearchSection.tsx:54
+msgid "{0} The hotel was found"
+msgstr "{0} The hotel was found"
+
+#: src/shared/hotel/hotel-room-selection/HotelRoomSelection.tsx:46
+msgid "{0} Tomans"
+msgstr "{0} Tomans"
+
+#: src/pages/profile/moneyWallet/TransactionsList.tsx:98
+msgid "{0} Tooman"
+msgstr "{0} Tooman"
+
+#: src/pages/hotel-search/HotelSearchResultPage.tsx:102
+msgid "{0} adult , {1} room"
+msgstr "{0} adult , {1} room"
+
+#: src/shared/hotel-cart/HotelCart.tsx:65
+msgid "{0} comments"
+msgstr "{0} comments"
+
+#: src/pages/profile/guide/text.ts:12
+msgid "{0} new people visit the link"
+msgstr "{0} new people visit the link"
+
+#: src/pages/hotel-details/HotelBookData.tsx:19
+msgid "{0} nights stay"
+msgstr "{0} nights stay"
+
+#: src/pages/hotel-details/HotelBookData.tsx:38
+msgid "{0} passengers"
+msgstr "{0} passengers"
+
+#: src/shared/hotel/hotel-room-select-checkbox/HotelRoomSelectCheckbox.tsx:34
+msgid "{0} persons"
+msgstr "{0} persons"
+
+#: src/pages/profile/ProfilePage.tsx:48
+msgid "{0} points: {score}"
+msgstr "{0} points: {score}"
+
+#: src/pages/hotel-details/HotelBookData.tsx:44
+msgid "{0} rooms"
+msgstr "{0} rooms"
+
+#: src/shared/hotel/hotel-cart/HotelCart.tsx:71
+msgid "{0} stars"
+msgstr "{0} stars"
+
+#: src/shared/hotel/hotel-inputs/HotelDateInput.tsx:19
+msgid "{0} to {1}"
+msgstr "{0} to {1}"
+
+#: src/pages/hotel-search/HotelSearchResultPage.tsx:74
+msgid "{count} The hotel was found"
+msgstr "{count} The hotel was found"
+
+#: src/pages/search-flight-result/SearchFlightResultPage.tsx:73
+msgid "{formattedDepartureDate} - {0}{passengersCount} Passenger"
+msgstr "{formattedDepartureDate} - {0}{passengersCount} Passenger"
+
+#: src/shared/hotel/hotel-info/HotelInfo.tsx:69
+msgid "{roomCount} room"
+msgstr "{roomCount} room"
+
+#: src/shared/hotel/hotel-info/HotelInfo.tsx:63
+msgid "{stayingTime} day"
+msgstr "{stayingTime} day"
+
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerInfoCard.tsx:239
+msgid "اتاق {0}:"
+msgstr "اتاق {0}:"
+
+#: src/shared/passenger-count-modal/LastPassangerListModal.tsx:38
+msgid "جست و جو"
+msgstr "جست و جو"
+
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:252
+msgid "شماره موبایل"
+msgstr "شماره موبایل"
+
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerCheckCard.tsx:34
+msgid "ُType Passenger"
+msgstr "ُType Passenger"

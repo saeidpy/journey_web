@@ -1,0 +1,13 @@
+{
+   "locales": ["en", "fa"],
+   "sourceLocale": "en",
+   "catalogs": [{
+      "path": "src/locales/{locale}/messages",
+      "include": ["src"]
+   }],
+   "compileNamespace": "ts",
+   "format": "po",
+   "extractBabelOptions": {
+      "presets": ["react-app"]
+    }
+}

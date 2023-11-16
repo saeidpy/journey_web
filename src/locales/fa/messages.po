@@ -1,0 +1,1811 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-12-21 10:12+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: fa\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/shared/hotel/hotel-cart/HotelCart.tsx:78
+msgid "({0} comments)"
+msgstr "({0} نظر)"
+
+#: src/pages/auth/otp/OtpPage.tsx:114
+msgid "- - - -"
+msgstr "- - - -"
+
+#: src/shared/passenger-count-modal/AgeMenu.tsx:8
+msgid "1 year"
+msgstr "۱ ساله"
+
+#: src/shared/passenger-count-modal/AgeMenu.tsx:17
+msgid "10 years"
+msgstr "۱۰ ساله"
+
+#: src/shared/passenger-count-modal/AgeMenu.tsx:18
+msgid "11 years"
+msgstr "۱۱ ساله"
+
+#: src/shared/passenger-count-modal/AgeMenu.tsx:9
+msgid "2 years"
+msgstr "۲ ساله"
+
+#: src/shared/passenger-count-modal/AgeMenu.tsx:10
+msgid "3 years"
+msgstr "۳ ساله"
+
+#: src/shared/passenger-count-modal/AgeMenu.tsx:11
+msgid "4 years"
+msgstr "۴ ساله"
+
+#: src/shared/passenger-count-modal/AgeMenu.tsx:12
+msgid "5 years"
+msgstr "۵ ساله"
+
+#: src/shared/passenger-count-modal/AgeMenu.tsx:13
+msgid "6 years"
+msgstr "۶ ساله"
+
+#: src/shared/passenger-count-modal/AgeMenu.tsx:14
+msgid "7 years"
+msgstr "۷ ساله"
+
+#: src/shared/passenger-count-modal/AgeMenu.tsx:15
+msgid "8 years"
+msgstr "۸ ساله"
+
+#: src/shared/passenger-count-modal/AgeMenu.tsx:16
+msgid "9 years"
+msgstr "۹ ساله"
+
+#: src/pages/hotel-details/HotelRelateSection.tsx:64
+msgid "About Hotel"
+msgstr "درباره هتل"
+
+#: src/pages/profile/editProfile/EditProfilePage.tsx:100
+msgid "About Me"
+msgstr "درباره من"
+
+#: src/pages/hotel-details/AboutHotel.tsx:22
+msgid "About hotel"
+msgstr "درباره هتل"
+
+#: src/pages/add-comment/AddCommentPage.tsx:45
+msgid "Add Comment"
+msgstr "افزودن دیدگاه"
+
+#: src/pages/add-comment/AddCommentPage.tsx:166
+msgid "Add Photo"
+msgstr "افزودن عکس"
+
+#: src/shared/search/NoDataContentSection.tsx:47
+msgid "Add a missing place"
+msgstr "افزودن یک مکان جا افتاده"
+
+#: src/pages/things/ThingsPage.tsx:160
+msgid "Add comment"
+msgstr "افزودن دیدگاه"
+
+#: src/pages/things/ThingsPage.tsx:166
+msgid "Add photo"
+msgstr "اضافه کردن عکس"
+
+#: src/pages/add-place/AddPlacePage.tsx:27
+#: src/pages/add-place/AddPlacePage.tsx:176
+msgid "Add place"
+msgstr "افزودن مکان"
+
+#: src/shared/cart/PlaceBriefFOrSearchResult.tsx:76
+#: src/shared/slider-container/SliderContainer.tsx:131
+msgid "Add to my favorite"
+msgstr "افزودن به علاقه‌مندی‌ها"
+
+#: src/pages/add-place/AddPlacePage.tsx:71
+msgid "Address *"
+msgstr "آدرس مکان *"
+
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:179
+#: src/pages/flight-passenger-info/FlightPassengerInfoPage.tsx:110
+msgid "Adult"
+msgstr "بزرگسال"
+
+#: src/core/book-flight/ContinueBookFlight.tsx:135
+msgid "Adult ({adultCount})"
+msgstr "بزرگسال ({adultCount})"
+
+#: src/shared/passenger-count-modal/HotelRoomCounter.tsx:62
+msgid "Adult passenger"
+msgstr "بزرگسال (بالای ۱۲ سال)"
+
+#: src/shared/hotel/hotel-inputs/PassengerCountInput.tsx:25
+#: src/shared/hotel/hotel-inputs/PassengerCountInputBottomRounded.tsx:37
+msgid "Adult,"
+msgstr "بزرگسال،"
+
+#: src/pages/search-flight-result/SortAndFilter.tsx:47
+msgid "Afternoon"
+msgstr "بعد از ظهر"
+
+#: src/pages/search-flight-result/FilterDialog.tsx:236
+msgid "Airline company"
+msgstr "شرکت هواپیمایی"
+
+#: src/shared/flight-ticket-info/FlightFurtherInformation.tsx:27
+msgid "Airplane model"
+msgstr "مدل هواپیما"
+
+#: src/pages/flight/FlightPage.tsx:197
+#: src/pages/search-flight-result/SearchFlightResultPage.tsx:72
+msgid "Airplane ticket"
+msgstr "بلیط هواپیما"
+
+#: src/shared/flight-ticket-info/SelectedTicketInfoListBox.tsx:110
+msgid "Allowable load"
+msgstr "میزان بار مجاز"
+
+#: src/pages/profile/moneyWallet/TransactionsList.tsx:73
+msgid "Amount"
+msgstr "مبلغ"
+
+#: src/shared/cart/PlaceBriefCartWithImageAndName.tsx:52
+#: src/shared/comment/Comment.tsx:89
+msgid "An error occurred"
+msgstr "خطایی رخ داده است"
+
+#: src/pages/hotel-details/HotelRelateSection.tsx:61
+msgid "Around the hotel"
+msgstr "اطراف هتل"
+
+#: src/shared/hotel/hotel-inputs/HotelDateInput.tsx:51
+msgid "Arrival and departure date"
+msgstr "تاریخ ورود و خروج"
+
+#: src/pages/search-flight-result/TabPrice.tsx:99
+msgid "At the most economical price every day"
+msgstr " به صرفه‌ترین قیمت در هر روز "
+
+#: src/pages/add-place/AddPlacePage.tsx:90
+msgid "Attraction"
+msgstr "جاذبه"
+
+#: src/shared/filterButtons/FilterButtons.tsx:30
+msgid "Attractions"
+msgstr "جاذبه‌ها"
+
+#: src/shared/things-photos/ImageLess.tsx:29
+msgid "Be the first one to add photo for this place"
+msgstr "اولین کسی باشید که برای این مکان عکس اضافه می‌کنید"
+
+#: src/shared/flight-ticket-info/FlightPassengerForm.tsx:255
+#: src/shared/flight-ticket-info/FlightPassengerForm.tsx:258
+msgid "Birth date"
+msgstr "تاریخ تولد"
+
+#: src/shared/flight-ticket-info/FlightPassengerForm.tsx:281
+#: src/shared/flight-ticket-info/FlightPassengerForm.tsx:282
+msgid "Birth place country"
+msgstr "کشور محل تولد"
+
+#: src/shared/flight-ticket-info/PassengersInfoBox.tsx:77
+msgid "BirthDate"
+msgstr "تاریخ تولد"
+
+#: src/shared/travels/TravelHistoryBox.tsx:34
+msgid "Book number: {0}"
+msgstr "شماره رزرو: {0}"
+
+#: src/shared/travels/TravelHistoryBox.tsx:39
+msgid "Buying date: {0}"
+msgstr "تاریخ خرید: {0}"
+
+#: src/App.tsx:58
+msgid "Cancel"
+msgstr "انصراف"
+
+#: src/shared/hotel/hotel-room-selection/HotelRoomSelection.tsx:91
+msgid "Cancelation Rules"
+msgstr "قوانین کنسلی"
+
+#: src/pages/hotel-order-detail/HotelOrderDetail.tsx:43
+msgid "Canceled"
+msgstr "لغو شده"
+
+#: src/pages/profile/moneyWallet/MoneyWalletPage.tsx:51
+msgid "Cash withdrawal"
+msgstr "برداشت وجه"
+
+#: src/pages/add-place/AddPlacePage.tsx:191
+msgid "Category"
+msgstr "دسته‌‌بندی"
+
+#: src/pages/hotel-details/HotelBookData.tsx:65
+msgid "Change room search"
+msgstr "تغییر جست‌وجوی هتل"
+
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:179
+#: src/pages/flight-passenger-info/FlightPassengerInfoPage.tsx:113
+msgid "Child"
+msgstr "کودک"
+
+#: src/core/book-flight/ContinueBookFlight.tsx:146
+msgid "Child ({childCount})"
+msgstr "کودک ({childCount})"
+
+#: src/shared/passenger-count-modal/HotelRoomCounter.tsx:71
+msgid "Child passenger"
+msgstr "کودک (۲ تا ۱۲ سال)"
+
+#: src/pages/add-place/AddPlacePage.tsx:109
+msgid "Choose on map *"
+msgstr "انتخاب از روی نقشه *"
+
+#: src/core/book-flight/ContinueBookFlight.tsx:42
+msgid "Choose payment method"
+msgstr "انتخاب روش های پرداخت"
+
+#: src/core/book-flight/ContinueBookFlight.tsx:36
+msgid "Choose return ticket"
+msgstr "انتخاب بلیط برگشت"
+
+#: src/pages/hotel-details/HotelRoomSelectionSection.tsx:46
+msgid "Choose the room you want"
+msgstr "اتاق مورد نظر خود را انتخاب کنید"
+
+#: src/shared/flight-ticket-info/TicketSelectionCaptionSection.tsx:19
+msgid "Choose your {0}"
+msgstr "{0} خود را انتخاب کنید."
+
+#: src/shared/province-city-section/city/CitySection.tsx:32
+msgid "City"
+msgstr "شهر"
+
+#: src/shared/province-city-section/city/CitySection.tsx:32
+msgid "City *"
+msgstr "شهر *"
+
+#: src/shared/comment/Comment.tsx:82
+msgid "Comment has been removed. Thank you."
+msgstr "دیدگاه حذف شد. با تشکر."
+
+#: src/pages/add-comment/useAddComment.ts:115
+#: src/pages/add-comment/useAddComment.ts:128
+msgid "Comment has been submitted. Thank you."
+msgstr "دیدگاه شما ثبت شد. با تشکر"
+
+#: src/pages/profile/ProfilePage.tsx:88
+msgid "Comments"
+msgstr "دیدگاه‌ها"
+
+#: src/shared/passenger-count-modal/HotelPassengerCountModal.tsx:73
+msgid "Confirm"
+msgstr "تایید"
+
+#: src/core/book-flight/ContinueBookFlight.tsx:40
+msgid "Confirm and continue"
+msgstr "تایید و ادامه"
+
+#: src/pages/hotel-passengers-check/HotelPassengersCheck.tsx:26
+msgid "Confirm information"
+msgstr "تایید اطلاعات"
+
+#: src/core/book-flight/ContinueBookFlight.tsx:38
+msgid "Continue"
+msgstr "ادامه"
+
+#: src/core/book-flight/ContinueBookFlight.tsx:44
+msgid "Continue buying"
+msgstr "ادامه خرید"
+
+#: src/shared/hotel/hotel-passenger-room-info/ActionButton.tsx:72
+msgid "Continue shopping"
+msgstr "ادامه خرید"
+
+#: src/pages/profile/moneyWallet/MoneyWalletPage.tsx:26
+msgid "Credit balance"
+msgstr "اعتبار موجودی"
+
+#: src/pages/profile/moneyWallet/TransactionsList.tsx:63
+msgid "Date"
+msgstr "تاریخ"
+
+#: src/pages/hotel-order-detail/HotelOrderDetail.tsx:38
+msgid "Dear Sir, the hotel reservation request has been registered for you, the registration of the inquiry does not mean that the reservation is confirmed, and after the confirmation of the amount and amount by the hotel, you will be informed via email and SMS."
+msgstr "مسافر گرامی، درخواست رزرو هتل برای شما ثبت شده است، ثبت استعلام به معنای قطعی شدن رزرو نیست و پس از تایید ظرفیت و مبلغ توسط هتل، به شما از طریق ایمیل و پیامک اطلاع رسانی خواهد شد."
+
+#: src/pages/search-flight-result/FilterDialog.tsx:266
+msgid "Delete filter"
+msgstr "حذف فیلتر"
+
+#: src/shared/flight-ticket-info/SelectedTicketInfoListBox.tsx:38
+#: src/shared/flight-ticket-info/SelectedTicketInfoListBox.tsx:158
+msgid "Departure"
+msgstr "مبدا"
+
+#: src/pages/flight/FlightPage.tsx:331
+#: src/pages/flight/FlightPage.tsx:376
+msgid "Departure date"
+msgstr "تاریخ رفت"
+
+#: src/pages/flight-ticket-info/FlightTicketInfoPage.tsx:38
+msgid "Departure flight information"
+msgstr "اطلاعات پرواز رفت"
+
+#: src/shared/flight-ticket-info/TicketSelectionCaptionSection.tsx:16
+msgid "Departure ticket"
+msgstr "بلیط رفت"
+
+#: src/pages/add-place/AddPlacePage.tsx:168
+msgid "Description"
+msgstr "توضیحات"
+
+#: src/pages/profile/moneyWallet/TransactionsList.tsx:68
+msgid "Descriptions"
+msgstr "توضیحات"
+
+#: src/shared/flight-ticket-info/SelectedTicketInfoListBox.tsx:50
+msgid "Destination"
+msgstr "مقصد"
+
+#: src/pages/flight/search-inputs/SearchInputs.tsx:112
+msgid "Destination city"
+msgstr "شهر مقصد"
+
+#: src/shared/flight-ticket-info/DiscountCodeForm.tsx:32
+#: src/shared/flight-ticket-info/DiscountCodeForm.tsx:34
+msgid "Discount code"
+msgstr "کد تخفیف"
+
+#: src/shared/search/NoDataContentSection.tsx:37
+msgid "Do you know a place that is not here?"
+msgstr "آیا مکانی سراغ دارید که در گردشگری هوشمند نیست؟"
+
+#: src/shared/flight-ticket-info/SelectedTicketInfoListBox.tsx:127
+msgid "Doesn't have"
+msgstr "ندارد"
+
+#: src/pages/flight/FlightPage.tsx:97
+msgid "Domestic flights"
+msgstr "پروازهای داخلی"
+
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerCheckCard.tsx:68
+msgid "Edit Profile"
+msgstr "ویرایش مشخصات"
+
+#: src/shared/flight-ticket-info/PassengersInfoBox.tsx:117
+msgid "Edit passengers information"
+msgstr "ویرایش مسافران"
+
+#: src/pages/profile/ProfileMenu.tsx:47
+msgid "Edit profile"
+msgstr "ویرایش پروفایل"
+
+#: src/shared/flight-ticket-info/SelectedFlightTicketInfoBox.tsx:26
+msgid "Edit ticket"
+msgstr "تغییر بلیط"
+
+#: src/pages/auth/otp/OtpPage.tsx:167
+msgid "Edit {validationType}"
+msgstr "ویرایش {validationType}"
+
+#: src/pages/auth/otp/OtpPage.tsx:28
+msgid "Email"
+msgstr "ایمیل"
+
+#: src/pages/profile/EditProfilePage.tsx:175
+msgid "Email *"
+msgstr "ایمیل *"
+
+#: src/pages/auth/otp/OtpPage.tsx:113
+msgid "Enter the code sent to {0} {mobileOrEmail}"
+msgstr "کد ارسال شده به {0} {mobileOrEmail} را وارد نمایید"
+
+#: src/pages/auth/restore-password/RestorePasswordPage.tsx:23
+msgid "Enter your email"
+msgstr "ایمیل خود را وارد کنید"
+
+#: src/pages/profile/editProfile/EditProfilePage.tsx:81
+msgid "Enter your email."
+msgstr "ایمیل خود را وارد کنید."
+
+#: src/pages/profile/editProfile/EditProfilePage.tsx:48
+msgid "Enter your name."
+msgstr "نام خود را وارد کنید."
+
+#: src/pages/auth/type-password/TypePasswordPage.tsx:24
+msgid "Enter your password"
+msgstr "رمز عبور خود را وارد کنید"
+
+#: src/pages/auth/login/LoginPage.tsx:77
+msgid "Enter your phone number or email."
+msgstr "شماره موبایل یا ایمیل خود را وارد کنید."
+
+#: src/pages/profile/editProfile/EditProfilePage.tsx:65
+msgid "Enter your phone number."
+msgstr "شماره موبایل خود را وارد کنید."
+
+#: src/pages/hotel-details/HotelBookData.tsx:24
+msgid "Entrance"
+msgstr "ورود"
+
+#: src/pages/hotel-details/Rules.tsx:21
+msgid "Entrance time: {0}"
+msgstr "زمان ورود: {0}"
+
+#: src/pages/profile/ProfileHeaderWithCover.tsx:158
+msgid "Exit"
+msgstr "خروج"
+
+#: src/pages/hotel-details/Rules.tsx:27
+msgid "Exit time: {0}"
+msgstr "زمان خروج: {0}"
+
+#: src/pages/add-comment/AddCommentPage.tsx:223
+msgid "Experience type"
+msgstr "نوع تجربه"
+
+#: src/pages/add-comment/AddCommentPage.tsx:118
+#: src/pages/add-place/AddPlacePage.tsx:93
+msgid "Experience type *"
+msgstr "نوع تجربه *"
+
+#: src/pages/add-comment/AddCommentPage.tsx:140
+msgid "Experience's comment"
+msgstr "نوشتن دیدگاه *"
+
+#: src/pages/add-comment/AddCommentPage.tsx:90
+#: src/pages/add-comment/AddCommentPage.tsx:91
+msgid "Experience's date"
+msgstr "تاریخ تجربه *"
+
+#: src/shared/flight-ticket-info/FlightPassengerForm.tsx:353
+#: src/shared/flight-ticket-info/FlightPassengerForm.tsx:354
+msgid "Expiry date of passport"
+msgstr "تاریخ انقضای پاسپورت"
+
+#: src/pages/profile/feedback/ProfileFeedbackPage.tsx:91
+msgid "Explanation"
+msgstr "توضیح"
+
+#: src/shared/flight-ticket-info/FlightPassengerForm.tsx:303
+#: src/shared/flight-ticket-info/FlightPassengerForm.tsx:304
+msgid "Exporting country"
+msgstr "کشور صادرکننده پاسپورت"
+
+#: src/shared/flight-ticket-info/FlightPassengerForm.tsx:177
+#: src/shared/flight-ticket-info/FlightPassengerForm.tsx:178
+msgid "Family"
+msgstr "نام خانوادگی"
+
+#: src/pages/add-comment/AddCommentPage.tsx:111
+msgid "FamilyJust"
+msgstr "خانوادگی"
+
+#: src/pages/profile/feedback/ProfileFeedbackPage.tsx:59
+msgid "Feedback"
+msgstr "ارسال بازخورد"
+
+#: src/pages/add-place/AddPlacePage.tsx:29
+msgid "Fill the form below if you want to add a place"
+msgstr "در صورتی که مکانی را می‌خواهید اضافه کنید فرم زیر را پر کنید."
+
+#: src/pages/search-flight-result/FilterDialog.tsx:145
+#: src/pages/search-flight-result/SortAndFilter.tsx:114
+msgid "Filter"
+msgstr "فیلتر"
+
+#: src/pages/profile/myTravels/NoContent.tsx:19
+msgid "First of all search to buy."
+msgstr "برای خرید ابتدا جست و جو کنید."
+
+#: src/pages/profile/moneyWallet/TransactionsList.tsx:38
+#: src/pages/profile/moneyWallet/TransactionsList.tsx:39
+#: src/pages/profile/moneyWallet/TransactionsList.tsx:40
+#: src/pages/profile/moneyWallet/TransactionsList.tsx:41
+#: src/pages/profile/moneyWallet/TransactionsList.tsx:42
+#: src/pages/profile/moneyWallet/TransactionsList.tsx:43
+#: src/pages/profile/moneyWallet/TransactionsList.tsx:44
+#: src/pages/profile/moneyWallet/TransactionsList.tsx:45
+msgid "First payment"
+msgstr "اولین پرداخت"
+
+#: src/shared/filterButtons/FilterButtons.tsx:31
+msgid "Flight"
+msgstr "پرواز"
+
+#: src/shared/flight-ticket-info/SelectedTicketInfoListBox.tsx:98
+msgid "Flight class"
+msgstr "کلاس پروازی"
+
+#: src/shared/flight-ticket-info/SelectedTicketInfoListBox.tsx:62
+msgid "Flight company"
+msgstr "شرکت هوایی"
+
+#: src/shared/flight-ticket-info/SelectedTicketInfoListBox.tsx:74
+msgid "Flight date and time"
+msgstr "تاریخ و ساعت پرواز"
+
+#: src/shared/flight-ticket-info/FlightPathInfoBox.tsx:48
+msgid "Flight duration: {0} minutes"
+msgstr "مدت زمان پرواز: {0} دقیقه"
+
+#: src/pages/flight-ticket-info/FlightTicketInfoPage.tsx:38
+msgid "Flight information"
+msgstr "اطلاعات پرواز"
+
+#: src/shared/flight-ticket-info/SelectedTicketInfoListBox.tsx:86
+msgid "Flight number"
+msgstr "شماره پرواز"
+
+#: src/shared/flight-ticket-info/SelectedFlightTicketInfoBox.tsx:33
+msgid "Flight {0}"
+msgstr "پرواز {0}"
+
+#: src/pages/profile/guide/text.ts:18
+msgid "For getting every like on the comment"
+msgstr "به ازای دریافت هر پسند روی دیدگاه"
+
+#: src/pages/profile/guide/text.ts:19
+msgid "For getting every like on the picture"
+msgstr "به ازای دریافت هر پسند روی تصویر"
+
+#: src/pages/profile/guide/text.ts:20
+msgid "For receiving the luggage on the place that the person added to the map"
+msgstr "به ازای دریافت توشه‌ روی مکانی که فرد به نقشه افزوده"
+
+#: src/pages/flight/FlightPage.tsx:231
+msgid "Foreign"
+msgstr "خارجی"
+
+#: src/pages/auth/type-password/TypePasswordPage.tsx:32
+msgid "Forget your password?"
+msgstr "رمز خود را فراموش کرده‌اید؟"
+
+#: src/pages/add-comment/AddCommentPage.tsx:112
+msgid "Friendly"
+msgstr "دوستانه"
+
+#: src/pages/search-flight-result/SortAndFilter.tsx:43
+msgid "From 12 to 16 noon"
+msgstr "از ۱۲ تا ۱۶ ظهر"
+
+#: src/pages/search-flight-result/SortAndFilter.tsx:48
+msgid "From 16 to 20 afternoon"
+msgstr "از ۱۶ تا ۲۰ عصر"
+
+#: src/pages/search-flight-result/SortAndFilter.tsx:53
+msgid "From 20 to 24 night"
+msgstr "از ۲۰ تا ۲۴ شب"
+
+#: src/pages/search-flight-result/SortAndFilter.tsx:38
+msgid "From 5 to 12 morning"
+msgstr "از ۵ تا ۱۲ صبح"
+
+#: src/pages/search-flight-result/FilterDialog.tsx:196
+msgid "From {0} Toman"
+msgstr "از {0} تومان"
+
+#: src/pages/search-flight-result/TabPrice.tsx:62
+msgid "Full"
+msgstr "تکمیل"
+
+#: src/shared/flight-ticket-info/PassengersInfoBox.tsx:41
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerCheckCard.tsx:32
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerInfoCard.tsx:110
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerInfoCard.tsx:112
+#: src/shared/passenger-count-modal/LastPassengerListModal.tsx:58
+msgid "FullName"
+msgstr "نام و نام‌خانوادگی"
+
+#: src/shared/flight-ticket-info/FlightFurtherInformation.tsx:21
+msgid "Further information"
+msgstr "اطلاعات تکمیلی"
+
+#: src/shared/flight-ticket-info/FlightPassengerForm.tsx:201
+#: src/shared/flight-ticket-info/FlightPassengerForm.tsx:202
+#: src/shared/flight-ticket-info/PassengersInfoBox.tsx:53
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerInfoCard.tsx:133
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerInfoCard.tsx:134
+msgid "Gender"
+msgstr "جنسیت"
+
+#: src/pages/profile/guide/MedalGuidePage.tsx:13
+msgid "Get medal guide"
+msgstr "راهنمای دریافت نشان"
+
+#: src/shared/flight-ticket-info/SelectedTicketInfoListBox.tsx:127
+msgid "Has"
+msgstr "دارد"
+
+#: src/shared/layouts/app-layout/BottomNavigation.tsx:36
+msgid "Home"
+msgstr "خانه"
+
+#: src/shared/filterButtons/FilterButtons.tsx:32
+msgid "Hotel"
+msgstr "هتل"
+
+#: src/pages/hotel-order-detail/HotelOrderDetail.tsx:49
+msgid "Hotel inquiries have been made. Please pay for it and then receive the hotel voucher."
+msgstr "استعلام هتل انجام شده است. لطفا نسبت به پرداخت هزینه آن اقدام و سپس واچر هتل را دریافت نمایید."
+
+#: src/pages/hotel/hotel-search-destination/HotelSearchInput.tsx:38
+#: src/pages/hotel/hotel-search-destination/SearchHotelDialog.tsx:91
+msgid "Hotel or destination city"
+msgstr "هتل یا شهر مقصد"
+
+#: src/pages/hotel/HotelPage.tsx:81
+msgid "Hotel reservation"
+msgstr "رزرو هتل"
+
+#: src/pages/profile/guide/PointGuidePage.tsx:29
+msgid "How to collect points?"
+msgstr "چگونه توشه جمع کنم؟"
+
+#: src/containers/auth/AuthContainer.tsx:26
+msgid "I accept all the <0>rules and regulations</0>."
+msgstr "تمامی <0>قوانین و مقررات</0> را پذیرفته‌ام"
+
+#: src/shared/flight-ticket-info/DiscountCodeForm.tsx:19
+msgid "If you have a discount code, enter it in the field below."
+msgstr "اگر کد تخفیف دارید، در قسمت زیر وارد کنید."
+
+#: src/pages/profile/moneyWallet/MoneyWalletPage.tsx:44
+msgid "Increase balance"
+msgstr "افزایش موجودی"
+
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:179
+#: src/pages/flight-passenger-info/FlightPassengerInfoPage.tsx:119
+msgid "Infant"
+msgstr "نوزاد"
+
+#: src/core/book-flight/ContinueBookFlight.tsx:157
+msgid "Infant ({infantCount})"
+msgstr "نوزاد ({infantCount})"
+
+#: src/shared/passenger-count-modal/FlightPassengerCountModal.tsx:61
+msgid "Infant passenger"
+msgstr "نوزاد (زیر ۲سال)"
+
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:132
+msgid "Information confirmation"
+msgstr "تایید اطلاعات"
+
+#: src/pages/hotel-order-detail/HotelOrderDetail.tsx:36
+msgid "Inquiring"
+msgstr "در حال استعلام"
+
+#: src/pages/flight/FlightPage.tsx:215
+msgid "Internal"
+msgstr "داخلی"
+
+#: src/pages/flight/FlightPage.tsx:98
+msgid "International flights"
+msgstr "پروازهای خارجی"
+
+#: src/pages/add-place/useAddPlace.ts:23
+msgid "Label must have at least one item"
+msgstr "باید حداقل یه مورد داشته باشد"
+
+#: src/shared/slider-container/SliderContainer.tsx:77
+msgid "Link copied to clipboard."
+msgstr "لینک کپی شد."
+
+#: src/shared/loading/FullScreenLoading.tsx:24
+#: src/shared/passenger-count-modal/LastPassengerListModal.tsx:48
+msgid "Loading..."
+msgstr "در حال بارگذاری"
+
+#: src/pages/auth/login/LoginPage.tsx:95
+#: src/pages/auth/otp/OtpPage.tsx:172
+msgid "Login"
+msgstr "ورود"
+
+#: src/pages/auth/login/LoginPage.tsx:105
+msgid "Login with Google"
+msgstr "ورود با گوگل"
+
+#: src/pages/profile/PointsSection.tsx:55
+msgid "Medals"
+msgstr "نشان‌ها"
+
+#: src/shared/cart/PlaceBriefCartWithImageAndName.tsx:46
+msgid "Media has been removed. Thank you."
+msgstr "عکس حذف شد. با تشکر."
+
+#: src/pages/things-add-photo/ThingsAddPhotoFooter.tsx:60
+msgid "Media has been submitted. Thank you."
+msgstr "عکس آپلود شد. با تشکر"
+
+#: src/shared/flight-ticket-info/OtherPersonPhoneNumberForm.tsx:40
+msgid "Mobile number"
+msgstr "تلفن همراه"
+
+#: src/pages/auth/login/LoginPage.tsx:78
+msgid "Mobile or Email"
+msgstr "شماره تلفن یا ایمیل"
+
+#: src/pages/profile/moneyWallet/MoneyWalletPage.tsx:21
+msgid "Money wallet"
+msgstr "کیف پول"
+
+#: src/pages/things/ThingsPageStuff.tsx:39
+msgid "More"
+msgstr "بیشتر"
+
+#: src/shared/newBadge/NewBadge.tsx:52
+msgid "More information"
+msgstr "اطلاعات بیشتر"
+
+#: src/pages/search-flight-result/SortAndFilter.tsx:37
+msgid "Morning"
+msgstr "صبح"
+
+#: src/pages/home/HomePage.tsx:14
+msgid "Most Viewed Destinations"
+msgstr "پر بازدیدترین مقاصد"
+
+#: src/pages/profile/myTravels/MyTravelsPage.tsx:23
+msgid "My travels"
+msgstr "سفرهای من"
+
+#: src/shared/flight-ticket-info/FlightPassengerForm.tsx:158
+#: src/shared/flight-ticket-info/FlightPassengerForm.tsx:159
+msgid "Name"
+msgstr "نام"
+
+#: src/pages/profile/editProfile/EditProfilePage.tsx:49
+msgid "Name *"
+msgstr "نام *"
+
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerCheckCard.tsx:33
+msgid "National Code"
+msgstr "کد ملی"
+
+#: src/shared/flight-ticket-info/FlightPassengerForm.tsx:125
+#: src/shared/flight-ticket-info/FlightPassengerForm.tsx:225
+#: src/shared/flight-ticket-info/FlightPassengerForm.tsx:226
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerInfoCard.tsx:157
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerInfoCard.tsx:158
+msgid "National code"
+msgstr "کد ملی"
+
+#: src/shared/flight-ticket-info/PassengersInfoBox.tsx:65
+msgid "National/Passport number"
+msgstr "کدملی/شماره پاسپورت"
+
+#: src/shared/flight-ticket-info/PassengersInfoBox.tsx:90
+msgid "Nationality"
+msgstr "ملیت"
+
+#: src/shared/layouts/app-layout/BottomNavigation.tsx:37
+msgid "New Location"
+msgstr "افزودن مکان جدید"
+
+#: src/pages/search-flight-result/SortAndFilter.tsx:52
+msgid "Night"
+msgstr "شب"
+
+#: src/shared/flight-ticket-info/SelectedTicketInfoListBox.tsx:139
+msgid "No"
+msgstr "نه"
+
+#: src/shared/things-photos/ImageLess.tsx:26
+msgid "No photos for this place!"
+msgstr "برای این مکان عکسی ثبت نشده است!"
+
+#: src/pages/hotel-details/HotelRoomSelectionSection.tsx:69
+#: src/pages/hotel-search/SearchSection.tsx:76
+msgid "No result content."
+msgstr "نتیجه ای وجود ندارد."
+
+#: src/shared/search/NoDataContentSection.tsx:32
+msgid "No result found for «{searchTerm}»."
+msgstr "نتیجه ای برای «{searchTerm}» یافت نشد."
+
+#: src/pages/search-flight-result/SortAndFilter.tsx:42
+msgid "Noon"
+msgstr "بعد از ظهر"
+
+#: src/App.tsx:58
+msgid "Ok"
+msgstr "تایید"
+
+#: src/pages/flight/FlightPage.tsx:269
+msgid "One-way"
+msgstr "یک طرفه"
+
+#: src/pages/hotel-order-detail/HotelOrderDetail.tsx:77
+msgid "Order detail"
+msgstr "جزییات سفارش"
+
+#: src/pages/flight/FlightPage.tsx:287
+msgid "Origin and destination"
+msgstr "مبدا و مقصد"
+
+#: src/pages/hotel-order-detail/HotelOrderDetail.tsx:53
+msgid "Paid"
+msgstr "پرداخت شده"
+
+#: src/pages/flight/FlightPage.tsx:171
+msgid "Passenger"
+msgstr "مسافر"
+
+#: src/pages/flight-passenger-info/FlightPassengerInfoPage.tsx:106
+msgid "Passenger's information"
+msgstr "مشخصات مسافران"
+
+#: src/pages/flight/FlightPage.tsx:167
+msgid "Passengers"
+msgstr "مسافران"
+
+#: src/pages/flight/FlightPage.tsx:421
+#: src/pages/flight/FlightPage.tsx:446
+msgid "Passengers count"
+msgstr "تعداد مسافران"
+
+#: src/shared/flight-ticket-info/PassengersInfoBox.tsx:112
+msgid "Passengers information"
+msgstr "اطلاعات مسافران"
+
+#: src/shared/flight-ticket-info/FlightPassengerForm.tsx:126
+msgid "Passport"
+msgstr "پاسپورت"
+
+#: src/shared/flight-ticket-info/FlightPassengerForm.tsx:322
+#: src/shared/flight-ticket-info/FlightPassengerForm.tsx:323
+msgid "Passport number"
+msgstr "شماره پاسپورت"
+
+#: src/pages/auth/set-password/SetPasswordPage.tsx:41
+msgid "Password"
+msgstr "رمز عبور"
+
+#: src/shared/hotel/hotel-passenger-room-info/ActionButton.tsx:77
+msgid "Payment by credit"
+msgstr "پرداخت از طریق اعتبار"
+
+#: src/pages/hotel-order-detail/HotelOrderDetail.tsx:57
+msgid "Payment was successful."
+msgstr "پرداخت با موفقیت انجام شد."
+
+#: src/pages/auth/otp/OtpPage.tsx:24
+msgid "Phone"
+msgstr "شماره موبایل"
+
+#: src/pages/profile/EditProfilePage.tsx:141
+msgid "Phone number"
+msgstr "شماره موبایل"
+
+#: src/pages/profile/editProfile/EditProfilePage.tsx:66
+msgid "Phone number *"
+msgstr ""
+
+#: src/shared/things-photos/ThingsPhotos.tsx:78
+msgid "Photo"
+msgstr "عکس"
+
+#: src/pages/profile/ProfilePage.tsx:84
+msgid "Photos"
+msgstr "عکس‌ها"
+
+#: src/pages/add-place/useAddPlace.ts:76
+msgid "Place has been submitted for review. Thank you."
+msgstr "مکان جهت بررسی ارسال شد. با تشکر از شما."
+
+#: src/pages/add-place/AddPlacePage.tsx:46
+msgid "Place name *"
+msgstr "نام مکان *"
+
+#: src/pages/search-flight-result/NoContentResult.tsx:25
+msgid "Please choose another date."
+msgstr "لطفا تاریخ دیگری را انتخاب نمایید."
+
+#: src/pages/auth/otp/OtpPage.tsx:118
+msgid "Please enter the code correctly."
+msgstr "لطفا کد را صحیح وارد نمایید."
+
+#: src/pages/things-add-photo/ThingsAddPhotosPage.tsx:85
+#: src/shared/image-uploader/ImageUploader.tsx:107
+msgid "Please wait"
+msgstr "لطفا شکیبا باشید"
+
+#: src/pages/profile/guide/PointGuidePage.tsx:15
+msgid "Point's guide"
+msgstr "راهنمای دریافت توشه"
+
+#: src/pages/profile/ProfilePage.tsx:74
+msgid "Points"
+msgstr "توشه‌ها"
+
+#: src/pages/profile/guide/text.ts:16
+msgid "Points is a rough ruler for how much our user community trusts you. And the more you can convince the other members of this website, the more your point will increase and the more your access will be on the site. And at the highest level of your point, you will become the site manager. In fact, it is not us who are rotating the site, it is the users who are doing this."
+msgstr "توشه یک خط‌کش تقریبی برای این است که نشون میده انجمن کاربران ما چقدر به شما اعتماد کردن و هر چه بتونی بقیه اعضای این وبسایت رو متقاعد کنی توشه‌ات به همون میزان میره بالا و میزان دسترسی‌هات هم داخل سایت بیشتر میشه و تو بالاترین سطح توشه‌ت، میشی مدیر سایت در واقع این ما نیستیم که داریم سایت رو می‌چرخونیم، این کاربران هستن که دارن این کار رو انجام میدن."
+
+#: src/pages/profile/guide/text.ts:17
+msgid "Points is completely optional. And all three activities of users on the tourism website, including adding a place, adding views to places, or editing the information of tourist places, none of them require points."
+msgstr "توشه‌ کاملا اختیاری است و هرسه فعالیت کاربران در وبسایت گردشگری از جمله اضافه کردن یک مکان، افزودن دیدگاه به محل‌ها و یا ویرایش اطلاعات محل‌های گردشگری هیچکدام نیاز به توشه‌ ندارد و هر کدام از این سه کار رو شما می‌تونید در سایت ما با خیال راحت انجام دهید. هرچند که با همین فعالیت‌های خوبتون در سایت ما توشه هم می‌تونید جمع کنید."
+
+#: src/pages/search/search-page/SearchSection.tsx:166
+msgid "Popular cities"
+msgstr "شهرهای پربازدید"
+
+#: src/shared/hotel/hotel-room-selection/HotelRoomSelection.tsx:73
+msgid "Price of {0} nights"
+msgstr "قیمت {0} شب"
+
+#: src/shared/hotel/hotel-room-selection/HotelRoomSelection.tsx:49
+msgid "Price per night:"
+msgstr "قیمت هر شب: "
+
+#: src/pages/search-flight-result/FilterDialog.tsx:189
+msgid "Price range"
+msgstr "بازه قیمتی"
+
+#: src/shared/travels/TravelHistoryBox.tsx:44
+msgid "Price: {0} Rial"
+msgstr "مبلغ: {0} ریال"
+
+#: src/shared/layouts/app-layout/BottomNavigation.tsx:35
+msgid "Profile"
+msgstr "پروفایل"
+
+#: src/shared/province-city-section/province/ProvinceSection.tsx:31
+msgid "Province"
+msgstr "استان"
+
+#: src/shared/province-city-section/province/ProvinceSection.tsx:31
+msgid "Province *"
+msgstr "استان *"
+
+#: src/shared/hotel/hotel-order-info/HotelOrderInfo.tsx:30
+msgid "Purchase time:"
+msgstr "زمان خرید :"
+
+#: src/pages/add-comment/AddCommentPage.tsx:62
+msgid "Rate this experience"
+msgstr "به این تجربه امتیاز‌ بده *"
+
+#: src/pages/auth/set-password/SetPasswordPage.tsx:56
+msgid "Re-enter password"
+msgstr "تکرار رمز عبور"
+
+#: src/pages/auth/otp/OtpResend.tsx:52
+msgid "Re-send code"
+msgstr "ارسال مجدد کد"
+
+#: src/shared/hotel/hotel-passenger-room-info/ActionButton.tsx:86
+msgid "Receipt of invoice"
+msgstr "دریافت فاکتور"
+
+#: src/shared/hotel/hotel-passenger-room-info/ActionButton.tsx:83
+msgid "Receive watcher"
+msgstr "دریافت واچر"
+
+#: src/pages/search/search-page/SearchSection.tsx:135
+msgid "Recently viewed"
+msgstr "اخیراً مشاهده شده"
+
+#: src/pages/auth/result-by-google/ResultByGooglePage.tsx:52
+msgid "Redirecting..."
+msgstr "در حال انتقال..."
+
+#: src/shared/flight-ticket-info/FlightFurtherInformation.tsx:89
+msgid "Refund rules"
+msgstr "قوانین استرداد"
+
+#: src/shared/flight-ticket-info/SelectedTicketInfoListBox.tsx:134
+msgid "Refundable"
+msgstr "قابلیت استرداد"
+
+#: src/shared/hotel/hotel-room-selection/HotelRoomSelection.tsx:96
+msgid "Registration of reservation inquiry"
+msgstr "ثبت استعلام رزرو"
+
+#: src/pages/things/ThingsRelatedLocation.tsx:23
+msgid "Related location"
+msgstr "مکان‌های مرتبط"
+
+#: src/pages/hotel-order-detail/HotelOrderDetail.tsx:48
+msgid "Reservation - Pending payment"
+msgstr "رزرو - در انتظار پرداخت"
+
+#: src/shared/hotel/hotel-order-info/HotelOrderInfo.tsx:18
+msgid "Reservation number:"
+msgstr "شماره رزرو:"
+
+#: src/shared/hotel/hotel-order-info/HotelOrderInfo.tsx:36
+msgid "Reservation status:"
+msgstr "وضعیت رزرو:"
+
+#: src/pages/add-place/AddPlacePage.tsx:88
+msgid "Residence"
+msgstr "اقامت"
+
+#: src/pages/add-place/AddPlacePage.tsx:89
+msgid "Restaurant"
+msgstr "رستوران"
+
+#: src/shared/error/OverlayError.tsx:22
+msgid "Retry"
+msgstr "تلاش دوباره"
+
+#: src/shared/flight-ticket-info/SelectedTicketInfoListBox.tsx:168
+msgid "Return"
+msgstr "برگشت"
+
+#: src/pages/flight/FlightPage.tsx:387
+msgid "Return date"
+msgstr "تاریخ بازگشت"
+
+#: src/pages/flight-ticket-info/FlightTicketInfoPage.tsx:38
+msgid "Return flight information"
+msgstr "اطلاعات پرواز برگشت"
+
+#: src/shared/flight-ticket-info/TicketSelectionCaptionSection.tsx:16
+msgid "Return ticket"
+msgstr "بلیط برگشت"
+
+#: src/pages/hotel-details/HotelDetailsPage.tsx:121
+msgid "Rooms"
+msgstr "اتاق‌ها"
+
+#: src/pages/flight/FlightPage.tsx:281
+msgid "Round-trip"
+msgstr "رفت و برگشت"
+
+#: src/pages/profile/moneyWallet/TransactionsList.tsx:58
+msgid "Row number"
+msgstr "ردیف"
+
+#: src/pages/hotel-details/Rules.tsx:15
+#: src/pages/term/TermsPage.tsx:13
+msgid "Rules and regulations"
+msgstr "قوانین و مقررات"
+
+#: src/pages/search-flight-result/SortSheet.tsx:49
+msgid "Save changes"
+msgstr "اعمال تغییرات"
+
+#: src/pages/search-flight-result/FilterDialog.tsx:263
+msgid "Save filter"
+msgstr "اعمال فیلتر"
+
+#: src/pages/flight/FlightPage.tsx:457
+msgid "Search"
+msgstr "جستجو"
+
+#: src/pages/hotel-details/HotelBookData.tsx:48
+msgid "Search and book rooms"
+msgstr "جست‌وجو و رزرو اتاق"
+
+#: src/pages/flight/search-city/SearchCityHistory.tsx:23
+#: src/pages/hotel/hotel-search-destination/SearchHotelHistory.tsx:24
+msgid "Search history"
+msgstr "تاریخچه جستجو"
+
+#: src/shared/flight-ticket-info/FlightTicketInfoBox.tsx:88
+msgid "Seat"
+msgstr "صندلی"
+
+#: src/pages/search/search-page/SearchSection.tsx:124
+msgid "See all results for «{searchTerm}»"
+msgstr "دیدن همه‌ی نتایج برای «{searchTerm}»"
+
+#: src/pages/flight/FlightPage.tsx:327
+#: src/pages/flight/FlightPage.tsx:349
+#: src/pages/flight/FlightPage.tsx:364
+msgid "Select Date"
+msgstr "انتخاب تاریخ"
+
+#: src/pages/profile/feedback/ProfileFeedbackPage.tsx:84
+msgid "Select a subject"
+msgstr ""
+
+#: src/App.tsx:58
+msgid "Select date"
+msgstr "انتخاب تاریخ"
+
+#: src/pages/flight/search-city/SearchCityDialog.tsx:118
+msgid "Select destination"
+msgstr "انتخاب مقصد"
+
+#: src/pages/flight/search-city/SearchCityDialog.tsx:118
+msgid "Select origin"
+msgstr "انتخاب مبدأ"
+
+#: src/pages/things-add-photo/ThingsAddPhotoHeader.tsx:18
+#: src/shared/add-photo-button/AddPhotoButton.tsx:50
+msgid "Selected photo"
+msgstr "عکس انتخاب شده"
+
+#: src/pages/profile/feedback/ProfileFeedbackPage.tsx:131
+msgid "Send feedback"
+msgstr "ثبت بازخورد"
+
+#: src/pages/flight-passenger-info/FlightPassengerInfoPage.tsx:124
+msgid "Send ticket to email or mobile number"
+msgstr "ارسال بلیط به ایمیل یا شماره همراه"
+
+#: src/pages/profile/feedback/ProfileFeedbackPage.tsx:63
+msgid "Send us your suggestion or criticism to improve the program"
+msgstr "پیشنهاد یا انتقاد خود را برای بهبود برنامه با ما درمیان بگذارید"
+
+#: src/shared/flight-ticket-info/OtherPersonPhoneNumberForm.tsx:26
+msgid "Sending ticket to other person"
+msgstr "ارسال بلیط به شماره همراه دیگر"
+
+#: src/pages/auth/set-password/SetPasswordPage.tsx:28
+msgid "Set password"
+msgstr "ثبت رمز عبور"
+
+#: src/shared/slider-container/SliderContainer.tsx:126
+msgid "Share"
+msgstr "اشتراک گذاری"
+
+#: src/shared/horizontal-scrollable/HeaderAndShowAll.tsx:24
+msgid "Show all"
+msgstr "مشاهده همه"
+
+#: src/pages/hotel-details/HotelRoomSelectionSection.tsx:62
+msgid "Show more rooms"
+msgstr "مشاهده اتاق های بیشتر"
+
+#: src/pages/hotel-details/HotelDetailsPage.tsx:106
+msgid "Show on map"
+msgstr "مشاهده روی نقشه"
+
+#: src/pages/add-comment/AddCommentPage.tsx:114
+msgid "Single"
+msgstr "تکی"
+
+#: src/pages/search-flight-result/SortAndFilter.tsx:99
+#: src/pages/search-flight-result/SortAndFilter.tsx:124
+msgid "Sort by"
+msgstr "مرتب سازی بر‌اساس"
+
+#: src/pages/flight/search-inputs/SearchInputs.tsx:89
+msgid "Source city"
+msgstr "شهر مبدأ"
+
+#: src/shared/flight-ticket-info/SelectedTicketInfoListBox.tsx:122
+msgid "Special service"
+msgstr "خدمات ویژه"
+
+#: src/shared/hotel/hotel-cart/HotelCart.tsx:91
+msgid "Starting price / Each night:"
+msgstr "شروع قیمت / هرشب: "
+
+#: src/shared/travels/TravelHistoryBox.tsx:57
+msgid "Status:"
+msgstr "وضعیت:"
+
+#: src/pages/profile/feedback/ProfileFeedbackPage.tsx:69
+msgid "Subject"
+msgstr "موضوع"
+
+#: src/pages/auth/restore-password/RestorePasswordPage.tsx:31
+#: src/pages/auth/set-password/SetPasswordPage.tsx:69
+msgid "Submit"
+msgstr "ثبت"
+
+#: src/shared/flight-ticket-info/DiscountCodeForm.tsx:41
+msgid "Submit code"
+msgstr "اعمال کد"
+
+#: src/pages/add-comment/AddCommentPage.tsx:191
+msgid "Submit comment"
+msgstr "ثبت دیدگاه"
+
+#: src/pages/profile/feedback/ProfileFeedbackPage.tsx:47
+msgid "Successfully registered"
+msgstr "با موفقیت ثبت شد"
+
+#: src/shared/hotel/hotel-passenger-room-info/ActionButton.tsx:64
+msgid "Sufficient inventory"
+msgstr "موجودی کافی"
+
+#: src/pages/profile/ProfileMenu.tsx:63
+msgid "Support"
+msgstr "پشتیبانی"
+
+#: src/pages/add-place/AddPlacePage.tsx:149
+msgid "Tag"
+msgstr "برچسب"
+
+#: src/pages/add-place/AddPlacePage.tsx:148
+msgid "Tag *"
+msgstr "برچسب *"
+
+#: src/pages/add-comment/AddCommentPage.tsx:142
+#: src/pages/add-place/AddPlacePage.tsx:47
+#: src/pages/add-place/AddPlacePage.tsx:72
+#: src/pages/add-place/AddPlacePage.tsx:169
+#: src/pages/profile/feedback/ProfileFeedbackPage.tsx:107
+#: src/shared/province-city-section/city/CitySection.tsx:33
+#: src/shared/province-city-section/province/ProvinceSection.tsx:32
+msgid "Text"
+msgstr "متن"
+
+#: src/pages/auth/otp/OtpPage.tsx:121
+msgid "The code you entered is wrong."
+msgstr "کد وارد شده اشتباه است."
+
+#: src/pages/hotel-order-detail/HotelOrderDetail.tsx:111
+msgid "The final amount may change after inquiry."
+msgstr "مبلغ نهایی پس از استعلام ممکن است تغییر نماید."
+
+#: src/pages/city-attractions/CityAttractionsPage.tsx:51
+#: src/pages/city-most-popular/CityMostPopularPage.tsx:25
+msgid "The most visited destinations"
+msgstr "پر بازدیدترین مقاصد"
+
+#: src/shared/passenger-count-modal/FlightPassengerCountModal.tsx:41
+msgid "The number of infants should not be less than adults and the number of passengers should not be more than 10 people."
+msgstr "تعداد نوزادان نباید کمتر از بزرگسالان باشد و تعداد مسافران نباید بیشتر از 10 نفر باشد."
+
+#: src/pages/things-add-photo/ThingsAddPhotosPage.tsx:82
+#: src/shared/image-uploader/ImageUploader.tsx:104
+msgid "The picture is uploading"
+msgstr ".تصویر در حال بارگذاری است"
+
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:56
+msgid "The ticket will be send to your phone number."
+msgstr "بلیط به همراه شما ارسال خواهد شد."
+
+#: src/pages/hotel-search/SearchSection.tsx:80
+msgid "There are no hotels on this date"
+msgstr "در این تاریخ هتلی وجود ندارد"
+
+#: src/pages/hotel-details/HotelRoomSelectionSection.tsx:73
+#: src/pages/hotel-search/SearchSection.tsx:80
+msgid "There is no available room in your selected time frame, choose another date"
+msgstr "در بازه ی زمانی انتخابی شما اتاق با ظرفیت خالی موجود نیست تاریخ دیگری را انتخاب نمایید "
+
+#: src/pages/profile/myTravels/NoContent.tsx:16
+msgid "There is no travel in your account."
+msgstr "سفری در حساب کاربری شما وجود ندارد."
+
+#: src/pages/auth/login/LoginPage.tsx:83
+#: src/pages/profile/feedback/ProfileFeedbackPage.tsx:111
+msgid "This field is required."
+msgstr "این فیلد اجباری است."
+
+#: src/pages/profile/feedback/ProfileFeedbackPage.tsx:112
+#: src/pages/profile/feedback/ProfileFeedbackPage.tsx:114
+msgid "This field most be lower than 50 characters."
+msgstr "این فیلد باید حداکثر 50 کاراکتر باشد"
+
+#: src/pages/auth/login/LoginPage.tsx:82
+#: src/pages/auth/login/LoginPage.tsx:85
+msgid "This field should be either mobile or email."
+msgstr "این فیلد باید شماره تلفن یا ایمیل باشد."
+
+#: src/pages/auth/restore-password/RestorePasswordPage.tsx:24
+#: src/pages/auth/set-password/SetPasswordPage.tsx:42
+#: src/pages/auth/set-password/SetPasswordPage.tsx:57
+#: src/pages/auth/set-password/SetPasswordPage.tsx:63
+#: src/pages/auth/type-password/TypePasswordPage.tsx:25
+msgid "This is required."
+msgstr "این فیلد اجباری است."
+
+#: src/shared/flight-ticket-info/InputValidation.ts:29
+msgid "This national code is a duplicate"
+msgstr "این کد ملی تکراری است"
+
+#: src/shared/flight-ticket-info/InputValidation.ts:30
+msgid "This national code is not correct"
+msgstr "این کد ملی صحیح نیست."
+
+#: src/shared/flight-ticket-info/InputValidation.ts:46
+msgid "This passport number is not correct"
+msgstr "این شماره‌ی پاسپورت صحیح نیست."
+
+#: src/pages/profile/EditProfilePage.tsx:149
+msgid "This phone number is not correct"
+msgstr "این شماره‌ی تلفن صحیح نیست."
+
+#: src/shared/flight-ticket-info/SelectedTicketInfoListBox.tsx:151
+msgid "Ticket information"
+msgstr "اطلاعات بلیط"
+
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:198
+msgid "Ticket information and further information will be sent to this address."
+msgstr "اطلاعات بلیط و اطلاع رسانی بعدی به این آدرس ارسال می شود ."
+
+#: src/pages/search-flight-result/FilterDialog.tsx:209
+#: src/shared/flight-ticket-info/FlightFurtherInformation.tsx:51
+msgid "Ticket type"
+msgstr "نوع بلیط"
+
+#: src/pages/search-flight-result/FilterDialog.tsx:152
+msgid "Time to move"
+msgstr "زمان حرکت"
+
+#: src/pages/search-flight-result/FilterDialog.tsx:199
+msgid "To {0} Toman"
+msgstr "تا {0} تومان"
+
+#: src/core/book-flight/ContinueBookFlight.tsx:129
+#: src/core/book-flight/ContinueBookFlight.tsx:140
+#: src/core/book-flight/ContinueBookFlight.tsx:151
+#: src/core/book-flight/ContinueBookFlight.tsx:162
+msgid "Tomans"
+msgstr "تومان"
+
+#: src/core/book-flight/ContinueBookFlight.tsx:118
+msgid "Total Price"
+msgstr "مبلغ کل"
+
+#: src/pages/profile/moneyWallet/TransactionsList.tsx:50
+msgid "Transactions list"
+msgstr "لیست تراکنش‌ها"
+
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:192
+msgid "Travel information"
+msgstr "اطلاع رسانی سفر"
+
+#: src/shared/travels/TravelHistoryBox.tsx:51
+msgid "Travel type: {0}"
+msgstr "نوع سفر: {0}"
+
+#: src/pages/add-place/AddPlacePage.tsx:128
+msgid "Type"
+msgstr ""
+
+#: src/pages/add-place/AddPlacePage.tsx:127
+msgid "Type *"
+msgstr "نوع *"
+
+#: src/pages/hotel-order-detail/HotelOrderDetail.tsx:44
+msgid "Unfortunately, the desired room is not available on your selected date. You can search for another hotel or time."
+msgstr "متاسفانه اتاق مورد نظر در تاریخ انتخابی شما موجود نیست. شما می توانید هتل یا زمان دیگری را جستجو نمایید."
+
+#: src/pages/search-flight-result/NoContentResult.tsx:20
+msgid "Unfortunately, there are no flights for your desired route on this date."
+msgstr "متاسفانه برای مسیر مورد نظر شما در این تاریخ پروازی وجود ندارد."
+
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:50
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:139
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:140
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:141
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:142
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:143
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:148
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:149
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:150
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:157
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:158
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:159
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:160
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:161
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:166
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:167
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:168
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:180
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:182
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:183
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:184
+#: src/pages/flight-ticket-info/FlightTicketInfoPage.tsx:54
+#: src/pages/flight-ticket-info/FlightTicketInfoPage.tsx:57
+#: src/pages/flight-ticket-info/FlightTicketInfoPage.tsx:59
+#: src/pages/flight-ticket-info/FlightTicketInfoPage.tsx:61
+#: src/pages/search-flight-result/SearchFlightResultPage.tsx:96
+#: src/pages/search-flight-result/SearchFlightResultPage.tsx:111
+msgid "Unknown"
+msgstr "ناشناس"
+
+#: src/pages/things-add-photo/ThingsAddPhotoFooter.tsx:78
+#: src/shared/image-uploader/ImageUploader.tsx:70
+#: src/shared/modal/FullScreenModal.tsx:103
+msgid "Upload image"
+msgstr "بارگذاری تصویر"
+
+#: src/shared/input/MapInput.tsx:74
+msgid "User denied Geolocation."
+msgstr "دسترسی به مکان وجود ندارد"
+
+#: src/shared/hotel/hotel-passenger-room-info/ActionButton.tsx:50
+msgid "Wallet balance"
+msgstr "موجودی کیف پول"
+
+#: src/shared/comment/Comment.tsx:156
+msgid "Was it useful?"
+msgstr "آیا این دیدگاه برایتان مفید بود؟"
+
+#: src/pages/profile/guide/PointGuidePage.tsx:17
+msgid "What is point?"
+msgstr "توشه چیست؟"
+
+#: src/pages/home/HomepageHeader.tsx:36
+#: src/shared/input/SearchInput.tsx:34
+msgid "Where? What?"
+msgstr "کجا؟ چه چیزی؟"
+
+#: src/pages/profile/guide/PointGuidePage.tsx:23
+msgid "Why do we need points?"
+msgstr "چرا به توشه احتیاج داریم؟"
+
+#: src/pages/add-comment/AddCommentPage.tsx:113
+msgid "Work"
+msgstr "کاری"
+
+#: src/shared/flight-ticket-info/InputValidation.ts:52
+msgid "Wrong e-mail format"
+msgstr "فرم ایمیل اشتباه است"
+
+#: src/shared/flight-ticket-info/SelectedTicketInfoListBox.tsx:139
+msgid "Yes"
+msgstr "بلی"
+
+#: src/pages/profile/guide/text.ts:8
+msgid "You get this badge by adding a profile picture in your account section"
+msgstr "با افزودن عکس پروفایل در بخش حساب کاربری خود، این نشان را دریافت می‌کنید"
+
+#: src/pages/profile/guide/text.ts:7
+msgid "You get this badge by completing all your information in the account section"
+msgstr "با تکمیل کردن تمام اطلاعات خود در بخش حساب کاربری، این نشان را دریافت می‌کنید"
+
+#: src/pages/profile/guide/text.ts:3
+msgid "You get this badge by liking the first place or comment"
+msgstr "با پسند کردن اولین مکان یا دیدگاه این نشان را دریافت می‌کنید"
+
+#: src/pages/profile/guide/text.ts:5
+msgid "You get this badge by writing your first review for a place"
+msgstr "با نوشتن اولین دیدگاه خود برای یک محل، این نشان را دریافت می‌کنید"
+
+#: src/pages/profile/guide/text.ts:4
+msgid "You get this badge when you add your first image for a location"
+msgstr "با افزودن اولین تصویر خود برای یک محل، این نشان را دریافت می‌کنید"
+
+#: src/pages/profile/guide/text.ts:6
+msgid "You get this badge when you add your first location to the map"
+msgstr "با افزودن اولین محل خود به نقشه، این نشان را دریافت می‌کنید"
+
+#: src/pages/profile/guide/text.ts:9
+msgid "You will earn this badge by writing {0} comments per week"
+msgstr "با نوشتن {0} دیدگاه در هفته، این نشان را دریافت خواهید کرد"
+
+#: src/pages/profile/guide/text.ts:10
+msgid "You will receive this badge by liking {0} times per week"
+msgstr "با پسند کردن {0} دیگاه در هفته این نشان را دریافت خواهید کرد"
+
+#: src/pages/profile/guide/text.ts:11
+msgid "You will receive this badge by receiving {0} likes on one of your devices"
+msgstr "با دریافت {0} پسند روی یک دیگاه خود، این نشان را دریافت خواهید کرد"
+
+#: src/pages/profile/ProfilePage.tsx:49
+msgid "Your"
+msgstr "شما"
+
+#: src/pages/profile/editProfile/useEditProfile.ts:62
+#: src/pages/profile/editProfile/useEditProfile.ts:91
+msgid "Your profile has been updated."
+msgstr "اطلاعات کاربری شما با موفقیت تغییر کرد."
+
+#: src/core/book-flight/RequireBookFlight.tsx:40
+msgid "Your time for booking flight has been invalidated"
+msgstr "زمان رزرو پرواز شما باطل شده است"
+
+#: src/core/book-hotel/RequireBookHotel.tsx:32
+msgid "Your time for booking hotel has been invalidated"
+msgstr ""
+
+#: src/shared/passenger-count-modal/HotelRoomCounter.tsx:88
+msgid "add room"
+msgstr "افزودن اتاق"
+
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerInfoCard.tsx:87
+msgid "adult passenger {0} :"
+msgstr "مسافر بزرگسال {0}:"
+
+#: src/shared/hotel/hotel-order-info/HotelOrderInfo.tsx:24
+msgid "booker:"
+msgstr "رزرو کننده:"
+
+#: src/pages/search-flight-result/getTags.ts:8
+msgid "cabin-type-business"
+msgstr "بیزنس"
+
+#: src/pages/search-flight-result/getTags.ts:9
+msgid "cabin-type-economy"
+msgstr "اکونومی"
+
+#: src/pages/search-flight-result/getTags.ts:10
+msgid "cabin-type-premium_economy"
+msgstr "پرمیوم اکونومی"
+
+#: src/shared/hotel/hotel-info/HotelInfo.tsx:32
+msgid "change room"
+msgstr "تغییر اتاق"
+
+#: src/shared/passenger-count-modal/AgeMenu.tsx:40
+msgid "child"
+msgstr "کودک"
+
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerInfoCard.tsx:89
+msgid "child passenger {0} :"
+msgstr "مسافر کودک {0}:"
+
+#: src/shared/hotel/hotel-inputs/PassengerCountInput.tsx:25
+#: src/shared/hotel/hotel-inputs/PassengerCountInputBottomRounded.tsx:37
+msgid "child,"
+msgstr "کودک،"
+
+#: src/shared/input/MapInput.tsx:87
+msgid "current location"
+msgstr "مکان فعلی"
+
+#: src/pages/add-comment/useAddComment.ts:26
+#: src/pages/add-place/useAddPlace.ts:17
+#: src/pages/profile/editProfile/useEditProfile.ts:25
+msgid "description must be at most 50 characters"
+msgstr "توضیحات نباید بیشتر از ۵۰ کاراکتر شود"
+
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerCheckCard.tsx:81
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerInfoCard.tsx:24
+msgid "eight"
+msgstr "هشتم "
+
+#: src/pages/profile/editProfile/useEditProfile.ts:30
+msgid "email must be a valid"
+msgstr "ایمیل باید معتبر باشد"
+
+#: src/shared/hotel/hotel-info/HotelInfo.tsx:49
+msgid "enter:"
+msgstr "ورود:"
+
+#: src/pages/profile/ProfileHeaderWithCover.tsx:146
+msgid "exit"
+msgstr "خروج"
+
+#: src/shared/hotel/hotel-info/HotelInfo.tsx:55
+msgid "exit:"
+msgstr "خروج:"
+
+#: src/pages/hotel-details/HotelRelateSection.tsx:62
+msgid "facilities"
+msgstr "امکانات"
+
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerCheckCard.tsx:78
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerInfoCard.tsx:21
+msgid "fifth"
+msgstr "پنجم"
+
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerCheckCard.tsx:74
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerInfoCard.tsx:17
+msgid "first"
+msgstr "اول"
+
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerCheckCard.tsx:74
+msgid "fitst"
+msgstr ""
+
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerCheckCard.tsx:77
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerInfoCard.tsx:20
+msgid "fourth"
+msgstr "چهارم"
+
+#: src/pages/hotel-search/HotelSearchResultPage.tsx:74
+msgid "hotels {0}"
+msgstr "هتل های {0}"
+
+#: src/shared/flight-ticket-info/FlightPassengerForm.tsx:82
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerInfoCard.tsx:78
+msgid "last passenger list"
+msgstr "لیست مسافران سابق"
+
+#: src/shared/passenger-count-modal/LastPassengerListModal.tsx:61
+msgid "nationalCodeOrPassportCode"
+msgstr "کد ملی / شماره پاسپورت"
+
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerCheckCard.tsx:82
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerInfoCard.tsx:25
+msgid "nine"
+msgstr "نهم"
+
+#: src/shared/hotel/hotel-info/HotelInfo.tsx:67
+msgid "number of rooms:"
+msgstr "تعداد اتاق:"
+
+#: src/pages/hotel-passengers/HotelPassengers.tsx:63
+msgid "passengers"
+msgstr "مسافران"
+
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:202
+msgid "phone number"
+msgstr "شماره موبایل"
+
+#: src/shared/hotel/hotel-inputs/PassengerCountInput.tsx:27
+#: src/shared/hotel/hotel-inputs/PassengerCountInputBottomRounded.tsx:39
+msgid "room"
+msgstr "اتاق"
+
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerRoomCheck.tsx:13
+msgid "room and passenger info"
+msgstr "مشخصات مسافران و اتاق"
+
+#: src/shared/passenger-count-modal/HotelRoomCounter.tsx:50
+msgid "room {0}"
+msgstr "اتاق {0} "
+
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerInfoCard.tsx:174
+msgid "room {0} :"
+msgstr "اتاق {0} :"
+
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerCheckCard.tsx:90
+msgid "room {0}:"
+msgstr ""
+
+#: src/pages/hotel-details/HotelBookData.tsx:42
+msgid "rooms count"
+msgstr "تعداد اتاق"
+
+#: src/shared/passenger-count-modal/LastPassengerListModal.tsx:43
+msgid "search"
+msgstr "جست‌وجو"
+
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerCheckCard.tsx:75
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerInfoCard.tsx:18
+msgid "second"
+msgstr "دوم"
+
+#: src/shared/passenger-count-modal/LastPassengerListModal.tsx:73
+msgid "select"
+msgstr "انتخاب"
+
+#: src/shared/flight-ticket-info/FlightPassengerForm.tsx:136
+msgid "select passanger last"
+msgstr "انتخاب مسافران سابق"
+
+#: src/shared/flight-ticket-info/FlightPassengerForm.tsx:143
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerInfoCard.tsx:95
+msgid "select passenger last"
+msgstr "انتخاب مسافران سابق"
+
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerCheckCard.tsx:80
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerInfoCard.tsx:23
+msgid "seven"
+msgstr "هفتم"
+
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerInfoCard.tsx:22
+msgid "six"
+msgstr ""
+
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerCheckCard.tsx:79
+msgid "sixth"
+msgstr "ششم"
+
+#: src/shared/hotel/hotel-info/HotelInfo.tsx:61
+msgid "staying time:"
+msgstr "مدت اقامت:"
+
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerCheckCard.tsx:83
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerInfoCard.tsx:26
+msgid "ten"
+msgstr "دهم"
+
+#: src/shared/passenger-count-modal/HotelPassengerCountModal.tsx:50
+msgid "the number of passengers should not be more than 10 people."
+msgstr "تعداد مسافران نباید بیشتر از ۱۰ نفر باشد"
+
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerCheckCard.tsx:76
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerInfoCard.tsx:19
+msgid "third"
+msgstr "سوم"
+
+#: src/pages/search-flight-result/getTags.ts:5
+msgid "ticket-type-charter"
+msgstr "چارتر"
+
+#: src/pages/search-flight-result/getTags.ts:6
+msgid "ticket-type-systemic"
+msgstr "سیستمی"
+
+#: src/pages/profile/guide/PointGuidePage.tsx:62
+msgid "x2 Taken points"
+msgstr "2× توشه‌ گرفته شده"
+
+#: src/shared/hotel/hotel-room-selection/HotelRoomSelection.tsx:55
+msgid "{0}"
+msgstr "{0}"
+
+#: src/shared/rate/Rate.tsx:24
+#: src/shared/rate/RateReverse.tsx:15
+msgid "{0} Comments"
+msgstr "{0} دیدگاه"
+
+#: src/pages/profile/guide/PointGuidePage.tsx:38
+#: src/pages/profile/guide/PointGuidePage.tsx:50
+msgid "{0} Points"
+msgstr "{0} توشه"
+
+#: src/pages/hotel-search/SearchSection.tsx:54
+msgid "{0} The hotel was found"
+msgstr "{0} هتل یافت شد"
+
+#: src/shared/hotel/hotel-room-selection/HotelRoomSelection.tsx:46
+msgid "{0} Tomans"
+msgstr "{0} تومان"
+
+#: src/pages/profile/moneyWallet/TransactionsList.tsx:98
+msgid "{0} Tooman"
+msgstr "{0} تومان"
+
+#: src/pages/hotel-search/HotelSearchResultPage.tsx:102
+msgid "{0} adult , {1} room"
+msgstr "{0} بزرگسال , {1} اتاق"
+
+#: src/shared/hotel-cart/HotelCart.tsx:65
+msgid "{0} comments"
+msgstr "{0} نظر"
+
+#: src/pages/profile/guide/text.ts:12
+msgid "{0} new people visit the link"
+msgstr "{0} فرد جدید از لینک بازدید کنند"
+
+#: src/pages/hotel-details/HotelBookData.tsx:19
+msgid "{0} nights stay"
+msgstr "{0} شب اقامت"
+
+#: src/pages/hotel-details/HotelBookData.tsx:38
+msgid "{0} passengers"
+msgstr "{0} مسافر"
+
+#: src/shared/hotel/hotel-room-select-checkbox/HotelRoomSelectCheckbox.tsx:34
+msgid "{0} persons"
+msgstr "{0} نفره"
+
+#: src/pages/profile/ProfilePage.tsx:48
+msgid "{0} points: {score}"
+msgstr "توشه‌های {0}: {score}"
+
+#: src/pages/hotel-details/HotelBookData.tsx:44
+msgid "{0} rooms"
+msgstr "{0} rooms"
+
+#: src/shared/hotel/hotel-cart/HotelCart.tsx:71
+msgid "{0} stars"
+msgstr "{0} ستاره"
+
+#: src/shared/hotel/hotel-inputs/HotelDateInput.tsx:19
+msgid "{0} to {1}"
+msgstr "{0} تا {1}"
+
+#: src/pages/hotel-search/HotelSearchResultPage.tsx:74
+msgid "{count} The hotel was found"
+msgstr "{count} هتل یافت شد"
+
+#: src/pages/search-flight-result/SearchFlightResultPage.tsx:73
+msgid "{formattedDepartureDate} - {0}{passengersCount} Passenger"
+msgstr "{formattedDepartureDate} - {0}{passengersCount} مسافر"
+
+#: src/shared/hotel/hotel-info/HotelInfo.tsx:69
+msgid "{roomCount} room"
+msgstr "{roomCount} اتاق"
+
+#: src/shared/hotel/hotel-info/HotelInfo.tsx:63
+msgid "{stayingTime} day"
+msgstr "{stayingTime} روز"
+
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerInfoCard.tsx:239
+msgid "اتاق {0}:"
+msgstr ""
+
+#: src/shared/passenger-count-modal/LastPassangerListModal.tsx:38
+msgid "جست و جو"
+msgstr ""
+
+#: src/pages/flight-final-check/FlightFinalCheckPage.tsx:252
+msgid "شماره موبایل"
+msgstr ""
+
+#: src/shared/hotel/hotel-passenger-room-info/HotelPassengerCheckCard.tsx:34
+msgid "ُType Passenger"
+msgstr "نوع مسافر"
